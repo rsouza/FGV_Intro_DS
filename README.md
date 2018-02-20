@@ -15,10 +15,13 @@ Through real-world examples and code snippets, we introduce methods for:
 + communication of results through visualization, stories, and interpretable summaries
 
 Detailed Syllabus:
+
 + Data science concepts and methodologies
-  + What is Data Science
+  + What is Data Science - Readings: [1](http://proquest.safaribooksonline.com/book/databases/9781449363871)
   + Data Science process
     + CRISP-DM
+
+    
 + Exploratory data analysis
 + Introduction to machine learning
 + Linear regression and regularization
