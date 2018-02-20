@@ -17,13 +17,19 @@ Through real-world examples and code snippets, we introduce methods for:
 Detailed Syllabus:
 
 + Data science concepts and methodologies
-  + What is Data Science - Readings: [1](http://proquest.safaribooksonline.com/book/databases/9781449363871)
-  + Data Science process
-    + CRISP-DM
+  + [What is Data Science](http://proquest.safaribooksonline.com/book/databases/9781449363871)
+  + [Data Science process](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
+    + [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
+    + [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 
-    
-+ Exploratory data analysis
-+ Introduction to machine learning
++ Data Science Tools
+  + [Jupyter Notebook](http://jupyter.org/)
+  + Pandas [1](http://proquest.safaribooksonline.com/9781449323592), [2](http://pandas.pydata.org/pandas-docs/stable/)
+
++ Exploratory data analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#)
++ Data Science, AI and machine learning
+
+
 + Linear regression and regularization
 + Model selection and evaluation
 + Classification: kNN, decision trees
