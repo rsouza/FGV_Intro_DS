@@ -23,6 +23,7 @@ Detailed Syllabus:
     + [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 
 + Data Science Tools
+  + [Git](https://git-scm.com/book/en/v2) and Github
   + [Jupyter Notebook](http://jupyter.org/)
   + Pandas [1](http://proquest.safaribooksonline.com/9781449323592), [2](http://pandas.pydata.org/pandas-docs/stable/)
 
@@ -47,3 +48,4 @@ Detailed Syllabus:
 + Big data storage and retrieval: noSQL, GraphDB
 + Big data distributed computing: map-reduce, spark, rdd
 + Neural Networks and Deep Learning
++ Analytical Pipelines [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html), [Luigi](https://github.com/spotify/luigi), [Airflow](https://airflow.apache.org/)
