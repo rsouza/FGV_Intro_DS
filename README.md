@@ -16,7 +16,7 @@ Through real-world examples and code snippets, we introduce methods for:
 
 Detailed Syllabus:
 
-+ Data science concepts and methodologies
++ [Data science concepts and methodologies](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/edit?usp=sharing)
   + [What is Data Science](http://proquest.safaribooksonline.com/book/databases/9781449363871)
   + [Data Science process](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
     + [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
@@ -29,15 +29,15 @@ Detailed Syllabus:
 + Exploratory data analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#)
 + Data Science, AI and machine learning
 
-
++ Data Formats and how to deal with then
++ Feature engineering and selection
 + Linear regression and regularization
 + Model selection and evaluation
-+ Classification: kNN, decision trees
-+ Classification: SVM
-+ Ensemble methods: random forests
-+ Intro to probability:
-+ Naive Bayes and logistic regression
-+ Feature engineering and selection
++ Classification
+  + kNN, decision trees, SVM
+  + Ensemble methods: random forests
+  + Naive Bayes and logistic regression
+
 + Clustering: k-means, hierarchical clustering
 + Dimensionality reduction: PCA and SVD
 + Text mining and information retrieval
