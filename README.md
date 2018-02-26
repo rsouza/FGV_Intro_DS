@@ -16,36 +16,50 @@ Through real-world examples and code snippets, we introduce methods for:
 
 Detailed Syllabus:
 
-+ [Data science concepts and methodologies](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/edit?usp=sharing)
++ [Data Science Concepts and Methodologies](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/edit?usp=sharing)
   + [What is Data Science](http://proquest.safaribooksonline.com/book/databases/9781449363871)
   + [Data Science process](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
     + [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
     + [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
-
++ Data Science, AI and Machine Learning
 + Data Science Tools
   + [Git](https://git-scm.com/book/en/v2) and Github
   + [Jupyter Notebook](http://jupyter.org/)
   + Pandas [1](http://proquest.safaribooksonline.com/9781449323592), [2](http://pandas.pydata.org/pandas-docs/stable/)
 
-+ Exploratory data analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#)
-+ Data Science, AI and machine learning
++ Data Formats and Data Acquisition
++ Exploratory Data Analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#) [3](oreilly.com/catalog/9780596802363/)
 
-+ Data Formats and how to deal with then
++ Data preparation
 + Feature engineering and selection
-+ Linear regression and regularization
 + Model selection and evaluation
-+ Classification
-  + kNN, decision trees, SVM
-  + Ensemble methods: random forests
-  + Naive Bayes and logistic regression
++ [Machine Learning Algorithms](http://cdn.intechopen.com/pdfs-wm/10694.pdf)
+  + Dimensionality reduction
+    + PCA
+    + SVD
+  + Clustering
+    + K-Means
+    + Hierarchical Clustering
 
-+ Clustering: k-means, hierarchical clustering
-+ Dimensionality reduction: PCA and SVD
+  + Linear Regression
+  + Logistic Regression
+  + Decision Tree
+  + Random Forest
+  + Other Ensemble Models
+  + SVM
+  + Naive Bayes
+  + kNN
+  + Gradient Boosting algorithms
+    + GBM
+    + XGBoost
+    + LightGBM
+    + CatBoost
+  + Neural Networks and Deep Learning
+
 + Text mining and information retrieval
 + Network Analysis
 + Recommender systems
 + Relational databases, SQL
 + Big data storage and retrieval: noSQL, GraphDB
 + Big data distributed computing: map-reduce, spark, rdd
-+ Neural Networks and Deep Learning
 + Analytical Pipelines [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html), [Luigi](https://github.com/spotify/luigi), [Airflow](https://airflow.apache.org/)
