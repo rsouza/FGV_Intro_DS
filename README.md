@@ -33,21 +33,23 @@ Detailed Syllabus:
 + Data preparation
 + Feature engineering and selection
 + Model selection and evaluation
-+ [Machine Learning Algorithms](http://cdn.intechopen.com/pdfs-wm/10694.pdf)
-  + Dimensionality reduction
-    + PCA
-    + SVD
-  + Clustering
-    + K-Means
-    + Hierarchical Clustering
-
-  + Linear Regression
-  + Logistic Regression
++ Machine Learning Algorithms [1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+  + Unsupervised
+    + Dimensionality reduction
+      + PCA
+      + SVD
+    + Clustering
+      + K-Means
+      + Hierarchical Clustering
+  + Supervised
+    + Linear Regression
+    + Logistic Regression
+    + SVM
+    + Naive Bayes
   + Decision Tree
   + Random Forest
   + Other Ensemble Models
-  + SVM
-  + Naive Bayes
+
   + kNN
   + Gradient Boosting algorithms
     + GBM
