@@ -38,7 +38,7 @@ Detailed Syllabus:
     + Dimensionality reduction
       + PCA
       + SVD
-    + Clustering
+    + [Clustering](https://dataaspirant.com/2016/09/24/classification-clustering-alogrithms/)
       + K-Means
       + Hierarchical Clustering
   + Supervised
@@ -74,4 +74,7 @@ Detailed Syllabus:
   + Distributed computing
     + Map Reduce
     + Spark
-  + Analytical Pipelines [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html), [Luigi](https://github.com/spotify/luigi), [Airflow](https://airflow.apache.org/)
+  + Analytical Pipelines
+    + [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+    + [Luigi](https://github.com/spotify/luigi)
+    + [Airflow](https://airflow.apache.org/)
