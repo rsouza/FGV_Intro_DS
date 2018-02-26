@@ -30,10 +30,10 @@ Detailed Syllabus:
 + Data Formats and Data Acquisition
 + Exploratory Data Analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#) [3](oreilly.com/catalog/9780596802363/)
 
-+ Data preparation
-+ Feature engineering and selection
-+ Model selection and evaluation
-+ Machine Learning Algorithms [1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
++ Data Preparation
++ Feature Engineering and Selection
++ Model Selection and Evaluation
++ Machine Learning Algorithms [1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [3](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
   + Unsupervised
     + Dimensionality reduction
       + PCA
@@ -46,22 +46,32 @@ Detailed Syllabus:
     + Logistic Regression
     + SVM
     + Naive Bayes
-  + Decision Tree
-  + Random Forest
-  + Other Ensemble Models
+    + Perceptron
+    + Decision Tree
+    + Ensemble Models
+      + Random Forest
+      + Other 
+    + kNN
+    + Gradient Boosting algorithms
+      + GBM
+      + XGBoost
+      + LightGBM
+      + CatBoost
+    + Neural Networks and Deep Learning
+      + Convolutional Neural Networks
+      + Sequence Models
+    + Genetic Algorithms
 
-  + kNN
-  + Gradient Boosting algorithms
-    + GBM
-    + XGBoost
-    + LightGBM
-    + CatBoost
-  + Neural Networks and Deep Learning
-
-+ Text mining and information retrieval
-+ Network Analysis
-+ Recommender systems
-+ Relational databases, SQL
-+ Big data storage and retrieval: noSQL, GraphDB
-+ Big data distributed computing: map-reduce, spark, rdd
-+ Analytical Pipelines [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html), [Luigi](https://github.com/spotify/luigi), [Airflow](https://airflow.apache.org/)
++ Data Science Tasks
+  + NLP and Text Mining
+  + Information Retrieval
+  + Graphs and Network Analysis
+  + Recommender Systems
+  + Relational databases and SQL
+  + NoSQL Databases
+  + Graph Databases
+  + Dealing with Big Data!
+  + Distributed computing
+    + Map Reduce
+    + Spark
+  + Analytical Pipelines [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html), [Luigi](https://github.com/spotify/luigi), [Airflow](https://airflow.apache.org/)
