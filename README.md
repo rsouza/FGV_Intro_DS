@@ -3,7 +3,7 @@ Introduction to Data Science @ FGV
 
 Instructor: [Renato Rocha Souza](http://emap.fgv.br/corpo-docente/renato-rocha-souza)
 
-This will be the repository of code for the Introduction to Data Science discipline.
+This is the repository of code for the "Introduction to Data Science"
 
 This class is about the Data Science process, in which we seek to gain useful predictions and insights from data. 
 Through real-world examples and code snippets, we introduce methods for:
@@ -23,8 +23,8 @@ Detailed Syllabus:
     + [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 + Data Science, AI and Machine Learning
 + Data Science Tools
-  + [Git](https://git-scm.com/book/en/v2) and Github
-  + [Jupyter Notebook](http://jupyter.org/)
+  + [Git](https://git-scm.com/book/en/v2) and [Github](https://guides.github.com/)
+  + Jupyter [1](http://jupyter.org/), [2](https://github.com/jupyterlab/jupyterlab)
   + Pandas [1](http://proquest.safaribooksonline.com/9781449323592), [2](http://pandas.pydata.org/pandas-docs/stable/)
 
 + Data Formats and Data Acquisition
@@ -62,6 +62,7 @@ Detailed Syllabus:
       + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
       + Convolutional Neural Networks
       + Sequence Models
+        + Word2vec & others [1](http://www.nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
     + Genetic Algorithms
 
 + Data Science Tasks
