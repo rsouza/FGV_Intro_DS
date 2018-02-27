@@ -57,7 +57,9 @@ Detailed Syllabus:
       + XGBoost
       + LightGBM
       + CatBoost
-    + Neural Networks and Deep Learning
+    + [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+      + [Gradient Descent](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+      + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
       + Convolutional Neural Networks
       + Sequence Models
     + Genetic Algorithms
