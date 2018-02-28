@@ -25,12 +25,15 @@ Detailed Syllabus:
 + Data Science Tools
   + [Git](https://git-scm.com/book/en/v2) and [Github](https://guides.github.com/)
   + Jupyter [1](http://jupyter.org/), [2](https://github.com/jupyterlab/jupyterlab)
+  + Numpy [1](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [2](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
   + Pandas [1](http://proquest.safaribooksonline.com/9781449323592), [2](http://pandas.pydata.org/pandas-docs/stable/)
 
-+ Data Formats and Data Acquisition
++ [Data Formats](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)
++ Data Acquisition
++ Data Preparation
 + Exploratory Data Analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#) [3](oreilly.com/catalog/9780596802363/)
 
-+ Data Preparation
+
 + Feature Engineering and Selection
 + Model Selection and Evaluation
 + Machine Learning Algorithms [1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [3](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
