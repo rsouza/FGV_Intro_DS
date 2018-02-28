@@ -21,12 +21,46 @@ Detailed Syllabus:
   + [Data Science process](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
     + [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
     + [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
-+ Data Science, AI and Machine Learning
-+ Data Science Tools
-  + [Git](https://git-scm.com/book/en/v2) and [Github](https://guides.github.com/)
-  + Jupyter [1](http://jupyter.org/), [2](https://github.com/jupyterlab/jupyterlab)
-  + Numpy [1](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [2](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
-  + Pandas [1](http://proquest.safaribooksonline.com/9781449323592), [2](http://pandas.pydata.org/pandas-docs/stable/)
+  + [Data Science, AI and Machine Learning](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
++ Data Science and Visualization Tools
+  + Versioning Tools
+    + [Git](https://git-scm.com/book/en/v2)
+    + [Github](https://guides.github.com/)
+    + [Gitlab](https://about.gitlab.com/)
+  + Exploratory Data Analysis Tools
+    + Jupyter [1](http://jupyter.org/), [2](https://github.com/jupyterlab/jupyterlab)
+    + Numpy [1](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [2](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
+    + Pandas [1](http://proquest.safaribooksonline.com/9781449323592), [2](http://pandas.pydata.org/pandas-docs/stable/)
+      + [Pandas Machine Learning](http://pandas-ml.readthedocs.io/en/stable/)
+      + [Geopandas](http://geopandas.org/)
+    + [Statsmodels](http://www.statsmodels.org/stable/index.html)
+  + Machine Learning Tools
+    + [Scikit-Learn](http://scikit-learn.org/stable/)
+        + [Inbalanced Learn](http://contrib.scikit-learn.org/imbalanced-learn/stable/#)
+        + [ForestCI](https://github.com/scikit-learn-contrib/forest-confidence-interval)
+        + [XGBoost](https://github.com/dmlc/xgboost)
+        + [Regularized Greedy Forest (RGF)](https://github.com/fukatani/rgf_python)
+        + [TPOT](https://github.com/EpistasisLab/tpot)
+        + [Auto SKLearn](https://github.com/automl/auto-sklearn)
+    + [Tensor Flow](https://www.tensorflow.org/)
+    + [Keras](https://keras.io/)
+    + [Gensim](https://radimrehurek.com/gensim/)  
+  + NLP Tools
+    + [NLTK](https://www.nltk.org/)
+    + [Spacy](https://spacy.io/)
+    + [TextBlob](http://textblob.readthedocs.io/en/dev/)  
+  + Visualization Tools
+    + [Matplotlib](https://matplotlib.org/)
+    + [Seaborn](https://seaborn.pydata.org/)
+    + [Bokeh](https://bokeh.pydata.org/en/latest/)
+    + [Plotly](https://plot.ly/)
+    + [Altair](https://altair-viz.github.io/)
+    + [GGPlot2](http://ggplot.yhathq.com/)
+    + [HoloViews](http://holoviews.org/)
+  + Other Tools   
+    + [ODO](https://odo.readthedocs.io/en/latest/)
+    + [NetworkX](https://networkx.github.io/)
+    + [ETE Toolkit](http://etetoolkit.org/)
 
 + [Data Formats](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)
 + Data Acquisition
