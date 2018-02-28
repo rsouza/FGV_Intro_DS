@@ -45,6 +45,7 @@ Detailed Syllabus:
     + [Tensor Flow](https://www.tensorflow.org/)
     + [Keras](https://keras.io/)
     + [Gensim](https://radimrehurek.com/gensim/)  
+    + [Orange](orange.biolab.si)
   + NLP Tools
     + [NLTK](https://www.nltk.org/)
     + [Spacy](https://spacy.io/)
