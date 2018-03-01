@@ -89,7 +89,7 @@ Detailed Syllabus:
     + Ensemble Models
       + Random Forest
       + Other 
-    + kNN
+    + [kNN](http://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
     + Gradient Boosting algorithms
       + GBM
       + XGBoost
