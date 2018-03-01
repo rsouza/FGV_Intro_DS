@@ -57,11 +57,15 @@ Detailed Syllabus:
     + [Plotly](https://plot.ly/)
     + [Altair](https://altair-viz.github.io/)
     + [GGPlot2](http://ggplot.yhathq.com/)
+    + [MPLD3](http://mpld3.github.io/)
+      + [d3.js](https://d3js.org/)
     + [HoloViews](http://holoviews.org/)
+    + [Folium](http://python-visualization.github.io/folium/)
+      + [Leaflet](http://leafletjs.com/)
   + Other Tools   
-    + [ODO](https://odo.readthedocs.io/en/latest/)
     + [NetworkX](https://networkx.github.io/)
     + [ETE Toolkit](http://etetoolkit.org/)
+    + [ODO](https://odo.readthedocs.io/en/latest/)
 
 + [Data Formats](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)
 + Data Acquisition
@@ -89,7 +93,7 @@ Detailed Syllabus:
     + Ensemble Models
       + Random Forest
       + Other 
-    + kNN
+    + [kNN](http://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
     + Gradient Boosting algorithms
       + GBM
       + XGBoost
