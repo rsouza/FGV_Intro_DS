@@ -68,11 +68,10 @@ Detailed Syllabus:
     + [ODO](https://odo.readthedocs.io/en/latest/)
 
 + [Data Formats](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)
-+ Data Acquisition
-+ Data Preparation
-+ Exploratory Data Analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#) [3](oreilly.com/catalog/9780596802363/)
-
-
++ [Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+    + Data Acquisition
+    + Data Preparation
+    + Exploratory Data Analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#) [3](oreilly.com/catalog/9780596802363/)
 + Feature Engineering and Selection
 + Model Selection and Evaluation
 + Machine Learning Algorithms [1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [3](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
