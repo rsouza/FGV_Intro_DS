@@ -68,7 +68,7 @@ Detailed Syllabus:
     + [ODO](https://odo.readthedocs.io/en/latest/)
 
 + [Data Formats](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)
-+ [Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
++ Data Engineering [1](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603), [2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
     + Data Acquisition
     + Data Preparation
     + Exploratory Data Analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#) [3](oreilly.com/catalog/9780596802363/)
