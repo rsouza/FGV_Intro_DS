@@ -71,8 +71,10 @@ Detailed Syllabus:
 + Data Engineering [1](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603), [2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
     + Data Acquisition
     + Data Preparation
-    + [Data Visualization](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
+      + [Handling Missing Values](http://www.ritchieng.com/pandas-handling-missing-values/)
+      + [Changing Datatypes](http://www.ritchieng.com/pandas-changing-datatype/)
     + Exploratory Data Analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#), [3](oreilly.com/catalog/9780596802363/)
+      + [Data Visualization](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 + Feature Engineering and Selection
 + Model Selection and Evaluation
 + Machine Learning Algorithms [1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [3](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
