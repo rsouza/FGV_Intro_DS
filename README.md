@@ -86,8 +86,14 @@ Detailed Syllabus:
       + K-Means
       + Hierarchical Clustering
   + Supervised
-    + Linear Regression
-    + Logistic Regression
+    + [Regression](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
+      + [Linear Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
+      + Logistic Regression
+      + Polynomial Regression
+      + [Stepwise Regression](https://planspace.org/20150423-forward_selection_with_statsmodels/)
+      + [Ridge Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
+      + [Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
+      + ElasticNet Regression
     + SVM
     + Naive Bayes
     + Perceptron
