@@ -106,7 +106,7 @@ Detailed Syllabus:
       + [Adaboost](https://towardsdatascience.com/boosting-algorithm-adaboost-b6737a9ee60c)
       + [GBM](https://towardsdatascience.com/boosting-algorithm-gbm-97737c63daa3)
       + [XGBoost](https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d)
-      + LightGBM
+      + [LightGBM](https://towardsdatascience.com/a-case-for-lightgbm-2d05a53c589c)
       + [CatBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
     + [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
       + [Gradient Descent](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
