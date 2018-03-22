@@ -97,7 +97,7 @@ Detailed Syllabus:
     + SVM
     + Naive Bayes
     + Perceptron
-    + Decision Tree
+    + [Decision Tree](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
     + Ensemble Models
       + Random Forest
       + Other 
