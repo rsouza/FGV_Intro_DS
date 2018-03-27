@@ -17,11 +17,11 @@ Through real-world examples and code snippets, we introduce methods for:
 Detailed Syllabus:
 
 + [Data Science Concepts and Methodologies](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/edit?usp=sharing)
-  + [What is Data Science](http://proquest.safaribooksonline.com/book/databases/9781449363871)
+  + Data Science, Statistics, AI and Machine Learning [1](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning), [2](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745), [3](http://proquest.safaribooksonline.com/book/databases/9781449363871)
+  
   + [Data Science process](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
     + [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
-    + [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
-  + [Data Science, AI and Machine Learning](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
+    + [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
 + Data Science and Visualization Tools
   + Versioning Tools
     + [Git](https://git-scm.com/book/en/v2)
