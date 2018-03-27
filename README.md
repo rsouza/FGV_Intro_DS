@@ -69,13 +69,16 @@ Detailed Syllabus:
 
 + [Data Formats](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)
 + Data Engineering [1](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603), [2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
-    + Data Acquisition
-    + Data Preparation
-      + [Handling Missing Values](http://www.ritchieng.com/pandas-handling-missing-values/)
-      + [Changing Datatypes](http://www.ritchieng.com/pandas-changing-datatype/)
-    + Exploratory Data Analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#), [3](oreilly.com/catalog/9780596802363/)
-      + [Data Visualization](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
+  + Data Acquisition
+  + Data Preparation
+    + [Handling Missing Values](http://www.ritchieng.com/pandas-handling-missing-values/)
+    + [Changing Datatypes](http://www.ritchieng.com/pandas-changing-datatype/)
+  + Exploratory Data Analysis [1](http://greenteapress.com/thinkstats2/html/index.html), [2](http://people.duke.edu/~ccc14/sta-663-2017/#), [3](oreilly.com/catalog/9780596802363/)
+    + [Data Visualization](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 + Feature Engineering and Selection
+  + [Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
+  + [Discrete/Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
+  + Textual Data [1](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41), [2](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
 + Model Selection and Evaluation
 + Machine Learning Algorithms [1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [3](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
   + Unsupervised
@@ -86,7 +89,7 @@ Detailed Syllabus:
       + K-Means
       + Hierarchical Clustering
   + Supervised
-    + [Regression](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
+    + Regression [1](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e), [2](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
       + [Linear Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
       + Logistic Regression
       + Polynomial Regression
@@ -110,7 +113,7 @@ Detailed Syllabus:
       + [CatBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
     + [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
       + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
-      + [Gradient Descent](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+      + Gradient Descent [1](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [2](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
       + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
       + Convolutional Neural Networks
       + Sequence Models
@@ -121,14 +124,14 @@ Detailed Syllabus:
   + NLP and Text Mining
   + Information Retrieval
   + Graphs and Network Analysis
+  + Sentiment Analysis [1](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90), [2](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913), [3](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7), [4](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5), [5](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-5-50b4e87d9bdd)
   + Recommender Systems
   + Relational databases and SQL
   + NoSQL Databases
   + Graph Databases
-  + Dealing with Big Data!
-  + Distributed computing
+  + Big Data and Distributed computing
     + Map Reduce
-    + Spark
+    + [Spark](https://towardsdatascience.com/deploy-a-python-model-more-efficiently-over-spark-497fc03e0a8d)
   + Analytical Pipelines
     + [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
     + [Luigi](https://github.com/spotify/luigi)
