@@ -109,6 +109,7 @@ Detailed Syllabus:
       + [LightGBM](https://towardsdatascience.com/a-case-for-lightgbm-2d05a53c589c)
       + [CatBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
     + [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+      + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
       + [Gradient Descent](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
       + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
       + Convolutional Neural Networks
