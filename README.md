@@ -112,7 +112,7 @@ Detailed Syllabus:
       + [XGBoost](https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d)
       + [LightGBM](https://towardsdatascience.com/a-case-for-lightgbm-2d05a53c589c)
       + [CatBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
-    + [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+    + Neural Networks and Deep Learning [1](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) [2](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
       + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
       + Gradient Descent [1](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [2](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
       + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
