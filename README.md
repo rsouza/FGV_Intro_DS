@@ -17,7 +17,7 @@ Through real-world examples and code snippets, we introduce methods for:
 Detailed Syllabus:
 
 + [Data Science Concepts and Methodologies](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/edit?usp=sharing)
-  + Data Science, Statistics, AI and Machine Learning [1](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning), [2](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745), [3](http://proquest.safaribooksonline.com/book/databases/9781449363871)
+  + Data Science, Statistics, AI and Machine Learning [1](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning), [2](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745), [3](http://proquest.safaribooksonline.com/book/databases/9781449363871), [3](http://cs109.github.io/2015/index.html)
   
   + [Data Science process](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
     + [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
@@ -80,7 +80,7 @@ Detailed Syllabus:
   + [Discrete/Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
   + Textual Data [1](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41), [2](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
 + Model Selection and Evaluation
-+ Machine Learning Algorithms [1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [3](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
++ Machine Learning Algorithms [1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [3](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11), [4](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
   + Unsupervised
     + Dimensionality reduction
       + PCA
@@ -88,6 +88,7 @@ Detailed Syllabus:
     + [Clustering](https://dataaspirant.com/2016/09/24/classification-clustering-alogrithms/)
       + K-Means
       + Hierarchical Clustering
+      + [K-Modes](https://github.com/nicodv/kmodes)
   + Supervised
     + Regression [1](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e), [2](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
       + [Linear Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
