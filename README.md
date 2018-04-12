@@ -100,18 +100,20 @@ Detailed Syllabus:
       + ElasticNet Regression
     + SVM
     + Naive Bayes
+    + [kNN](http://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
     + Perceptron
     + [Decision Tree](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
-    + Ensemble Models
-      + Random Forest
-      + Other 
-    + [kNN](http://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
-    + Gradient Boosting algorithms
+    + Ensemble Models (Bagging, Boosting, Stacking) [1](https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/) [2](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/) [3](https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/)
+      + [Random Forest](https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/)
+      
+      + [Extremely Randomized Tress](https://orbi.uliege.be/bitstream/2268/9357/1/geurts-mlj-advance.pdf) 
+    + Boosting algorithms
       + [Adaboost](https://towardsdatascience.com/boosting-algorithm-adaboost-b6737a9ee60c)
       + [GBM](https://towardsdatascience.com/boosting-algorithm-gbm-97737c63daa3)
       + [XGBoost](https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d)
       + [LightGBM](https://towardsdatascience.com/a-case-for-lightgbm-2d05a53c589c)
       + [CatBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+    + Bagging
     + Neural Networks and Deep Learning [1](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) [2](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
       + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
       + Gradient Descent [1](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [2](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
