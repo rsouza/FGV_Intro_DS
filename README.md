@@ -21,7 +21,7 @@ Detailed Syllabus:
   
   + [Data Science process](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
     + [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
-    + [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
+    + [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 + Data Science and Visualization Tools
   + Versioning Tools
     + [Git](https://git-scm.com/book/en/v2)
@@ -88,40 +88,48 @@ Detailed Syllabus:
     + [Clustering](https://dataaspirant.com/2016/09/24/classification-clustering-alogrithms/)
       + K-Means
       + Hierarchical Clustering
-      + [K-Modes](https://github.com/nicodv/kmodes)
+      + [K-Modes](https://github.com/nicodv/kmodes)  
+      
   + Supervised
-    + Regression [1](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e), [2](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
+    + Regression [1](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e), [2](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)  
       + [Linear Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
-      + Logistic Regression
-      + Polynomial Regression
+      + [Logistic Regression](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r)
+      + Polynomial Regression [1](https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49) [2](http://scikit-learn.org/stable/modules/linear_model.html#polynomial-regression-extending-linear-models-with-basis-functions)
       + [Stepwise Regression](https://planspace.org/20150423-forward_selection_with_statsmodels/)
       + [Ridge Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
       + [Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
       + ElasticNet Regression
-    + SVM
-    + Naive Bayes
+    + [SVM](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+    + [Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
     + [kNN](http://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
-    + Perceptron
     + [Decision Tree](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
-    + Ensemble Models (Bagging, Boosting, Stacking) [1](https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/) [2](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/) [3](https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/)
-      + [Random Forest](https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/)
-      
-      + [Extremely Randomized Tress](https://orbi.uliege.be/bitstream/2268/9357/1/geurts-mlj-advance.pdf) 
-    + Boosting algorithms
-      + [Adaboost](https://towardsdatascience.com/boosting-algorithm-adaboost-b6737a9ee60c)
-      + [GBM](https://towardsdatascience.com/boosting-algorithm-gbm-97737c63daa3)
-      + [XGBoost](https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d)
-      + [LightGBM](https://towardsdatascience.com/a-case-for-lightgbm-2d05a53c589c)
-      + [CatBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
-    + Bagging
+    + Ensemble Models [1](https://en.wikipedia.org/wiki/Ensemble_learning), [2](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/) [3](https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/)
+      + [Bagging](https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/)  
+        + [Random Forest](https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/)   
+        + [Extremely Randomized Trees](https://orbi.uliege.be/bitstream/2268/9357/1/geurts-mlj-advance.pdf) 
+        + [Regularized Greedy Forests](https://www.analyticsvidhya.com/blog/2018/02/introductory-guide-regularized-greedy-forests-rgf-python/)
+      + Boosting
+        + [Adaboost](https://towardsdatascience.com/boosting-algorithm-adaboost-b6737a9ee60c)
+        + [GBM](https://towardsdatascience.com/boosting-algorithm-gbm-97737c63daa3)
+        + [XGBoost](https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d)
+        + [LightGBM](https://towardsdatascience.com/a-case-for-lightgbm-2d05a53c589c)
+        + [CatBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+      + [Stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
+      + [Voting](https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00)
+    + [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
     + Neural Networks and Deep Learning [1](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) [2](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
-      + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
-      + Gradient Descent [1](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [2](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
-      + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+      + Feedforward Neural Networks
       + Convolutional Neural Networks
       + Sequence Models
         + Word2vec & others [1](http://www.nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
-    + Genetic Algorithms
+      + [Generative Adversarial Networks](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/)
+      + Neural Network concepts
+        + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
+        + Gradient Descent [1](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [2](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
+        + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+    + [Genetic Algorithms](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/)
+
 
 + Data Science Tasks
   + NLP and Text Mining
