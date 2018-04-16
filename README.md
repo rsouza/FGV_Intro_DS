@@ -79,12 +79,18 @@ Detailed Syllabus:
   + [Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
   + [Discrete/Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
   + Textual Data [1](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41), [2](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
-+ Model Selection and Evaluation
++ [Model Selection](https://towardsdatascience.com/data-science-simplified-part-6-model-selection-methods-2511cbdf7cb0)
++ Regularization
++ Bias and Variance
++ Overfitting
++ [Evaluation Metrics](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
+
 + Machine Learning Algorithms [1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [3](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11), [4](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
   + Unsupervised
-    + Dimensionality reduction
-      + PCA
-      + SVD
+    + [Dimensionality reduction](https://towardsdatascience.com/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)
+      + [PCA](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
+      + [SVD](https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/)
+      + [t-SNE](https://towardsdatascience.com/checking-out-dimensionality-reduction-with-t-sne-78309b2ca67d) 
     + [Clustering](https://dataaspirant.com/2016/09/24/classification-clustering-alogrithms/)
       + K-Means
       + Hierarchical Clustering
