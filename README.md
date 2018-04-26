@@ -102,22 +102,27 @@ Detailed Syllabus:
       + [Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
       + ElasticNet Regression
     + [SVM](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
-    + [Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+    + [Passive-Aggressive](https://www.bonaccorso.eu/2017/10/06/ml-algorithms-addendum-passive-aggressive-algorithms/)
+    + Bayesian Approaches
+      + [Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+      + [Guassian Mixtures](http://katbailey.github.io/post/gaussian-processes-for-dummies/) [package](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.gaussian_process)
+    
     + [kNN](http://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
     + [Decision Tree](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
-    + Bayesian Approaches
-    + [Guassian Mixtures](http://katbailey.github.io/post/gaussian-processes-for-dummies/) [package](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.gaussian_process)
+    
     + Ensemble Models [Ref 1](https://en.wikipedia.org/wiki/Ensemble_learning), [Ref 2](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/) [Ref 3](https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/), [package](http://scikit-learn.org/stable/modules/ensemble.html)
       + [Bagging](https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/)  
         + [Random Forest](https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/)   
-        + [Extremely Randomized Trees](https://orbi.uliege.be/bitstream/2268/9357/1/geurts-mlj-advance.pdf) 
-        + [Regularized Greedy Forests](https://www.analyticsvidhya.com/blog/2018/02/introductory-guide-regularized-greedy-forests-rgf-python/), [package](https://github.com/fukatani/rgf_python)
-      + Boosting
+        + [Extremely Randomized Trees](https://orbi.uliege.be/bitstream/2268/9357/1/geurts-mlj-advance.pdf)
+        + [Bagging Classifier](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume11/opitz99a-html/node3.html), [package](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html)
+      + [Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
         + [Adaboost](https://towardsdatascience.com/boosting-algorithm-adaboost-b6737a9ee60c)
         + [GBM](https://towardsdatascience.com/boosting-algorithm-gbm-97737c63daa3)
         + [XGBoost](https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d), [package](https://github.com/dmlc/xgboost) 
         + [LightGBM](https://towardsdatascience.com/a-case-for-lightgbm-2d05a53c589c)
         + [CatBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+        + [Regularized Greedy Forests](https://www.analyticsvidhya.com/blog/2018/02/introductory-guide-regularized-greedy-forests-rgf-python/), [package](https://github.com/fukatani/rgf_python)
+
       + [Stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
       + [Voting](https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00)
     + [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
