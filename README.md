@@ -130,7 +130,7 @@ Detailed Syllabus:
       + Feedforward Neural Networks
       + Convolutional Neural Networks
       + Sequence Models
-        + Word2vec & others [Trained Models](http://www.nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
+        + Word2vec & others [Ref](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233), [Trained Models](http://www.nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
       + [Generative Adversarial Networks](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/)
       + Neural Network concepts
         + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
