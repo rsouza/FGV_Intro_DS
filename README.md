@@ -76,9 +76,10 @@ Detailed Syllabus:
   + [Discrete/Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
   + Textual Data [Ref 1](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41), [Ref 2](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
 + [Model Selection](https://towardsdatascience.com/data-science-simplified-part-6-model-selection-methods-2511cbdf7cb0)
-+ Regularization
-+ Bias and Variance
-+ Overfitting
++ [Cross Validation](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
++ Regularization [1](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a), [2](https://www.analyticsvidhya.com/blog/2015/02/avoid-over-fitting-regularization/)
++ [Bias and Variance](https://towardsdatascience.com/balancing-bias-and-variance-to-control-errors-in-machine-learning-16ced95724db)
++ [Overfitting and Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)
 + [Evaluation Metrics](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
 
 + Machine Learning Algorithms [Ref 1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [Ref 2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [Ref 3](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11), [Ref 4](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
