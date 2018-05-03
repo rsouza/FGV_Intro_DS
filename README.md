@@ -136,6 +136,7 @@ Detailed Syllabus:
         + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
         + Gradient Descent [Ref 1](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [Ref 2](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
         + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+        + [Weight Averaging](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
 
     + [Genetic Algorithms](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/), [TPOT](https://github.com/EpistasisLab/tpot), [Auto SKLearn](https://github.com/automl/auto-sklearn)
 
