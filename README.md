@@ -67,7 +67,7 @@ Detailed Syllabus:
       + [Bernoulli Naive Bayes](http://mattshomepage.com/articles/2016/Jun/07/bernoulli_nb/)
     + [Guassian Mixtures](http://katbailey.github.io/post/gaussian-processes-for-dummies/) [package](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.gaussian_process)
     + [kNN](http://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
-    + [Decision Tree](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+    + Decision Tree [ref1](https://towardsdatascience.com/random-forest-mystery-revealed-69ca18b82ff5), [ref2](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
     + Ensemble Models [ref1](https://en.wikipedia.org/wiki/Ensemble_learning), [ref2](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/) [ref3](https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/), [package](http://scikit-learn.org/stable/modules/ensemble.html)
       + [Bagging](https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/)  
         + [Random Forest](https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/)   
