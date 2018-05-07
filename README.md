@@ -102,6 +102,7 @@ Detailed Syllabus:
         + [Auto SKLearn](https://github.com/automl/auto-sklearn)
 
 + Data Science Tasks
+  + Time Series Analysis [ref1](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/), [ref2](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
   + NLP and Text Mining
   + Information Retrieval
   + Graphs and Network Analysis
