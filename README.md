@@ -85,7 +85,7 @@ Detailed Syllabus:
       + [Stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
       + [Voting](https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00)
     + [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
-    + Neural Networks and Deep Learning [ref1](http://neuralnetworksanddeeplearning.com/chap1.html), [ref2](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [ref3](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0), [meme](https://indico.io/blog/wp-content/uploads/2016/02/inception_meme.jpg)
+    + Neural Networks and Deep Learning [ref1](http://neuralnetworksanddeeplearning.com/chap1.html), [ref2](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba), [ref3](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0), [video](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [meme](https://indico.io/blog/wp-content/uploads/2016/02/inception_meme.jpg)
       + [Feedforward Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
       + Convolutional Neural Networks [ref1](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/), [ref2](https://www.saama.com/blog/different-kinds-convolutional-filters/), [ref3](https://software.intel.com/en-us/articles/hands-on-ai-part-16-modern-deep-neural-network-architectures-for-image-classification)
         + [Convolution for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/) 
