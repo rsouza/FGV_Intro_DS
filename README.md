@@ -42,7 +42,7 @@ Detailed Syllabus:
 + [Overfitting and Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)
 + [Evaluation Metrics](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
 
-+ Machine Learning Algorithms [ref1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [ref2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [ref3](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11), [ref4](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
++ Machine Learning Algorithms [ref1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [ref2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [ref3](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11), [ref4](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/), [ref5](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
   + Unsupervised
     + [Dimensionality reduction](https://towardsdatascience.com/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)
       + [PCA](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
