@@ -27,8 +27,8 @@ Detailed Syllabus:
   + Data Preparation
     + [Handling Missing Values](http://www.ritchieng.com/pandas-handling-missing-values/)
     + [Changing Datatypes](http://www.ritchieng.com/pandas-changing-datatype/)
-  + Exploratory Data Analysis [ref1](http://greenteapress.com/thinkstats2/html/index.html), [ref2](http://people.duke.edu/~ccc14/sta-663-2017/#), [ref3](oreilly.com/catalog/9780596802363/)
-    + Data Visualization [ref1](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f), [ref2](https://www.linuxlinks.com/best-free-python-visualization-packages/)
+  + Exploratory Data Analysis [ref1](http://greenteapress.com/thinkstats2/html/index.html), [ref2](http://people.duke.edu/~ccc14/sta-663-2017/#), [ref3](oreilly.com/catalog/9780596802363/)  
+  + Data Visualization [ref1](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f), [ref2](https://www.linuxlinks.com/best-free-python-visualization-packages/)  
 + Feature Engineering
 + [Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
   + [Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
