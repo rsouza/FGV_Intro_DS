@@ -28,7 +28,7 @@ Detailed Syllabus:
     + [Handling Missing Values](http://www.ritchieng.com/pandas-handling-missing-values/)
     + [Changing Datatypes](http://www.ritchieng.com/pandas-changing-datatype/)
   + Exploratory Data Analysis [ref1](http://greenteapress.com/thinkstats2/html/index.html), [ref2](http://people.duke.edu/~ccc14/sta-663-2017/#), [ref3](oreilly.com/catalog/9780596802363/)
-    + [Data Visualization](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
+    + Data Visualization [ref1](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f), [ref2](https://www.linuxlinks.com/best-free-python-visualization-packages/)
 + Feature Engineering
 + [Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
   + [Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
@@ -52,6 +52,7 @@ Detailed Syllabus:
       + K-Means
       + Hierarchical Clustering
       + [K-Modes](https://github.com/nicodv/kmodes)  
+    +Topic Modeling [ref1](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730), [ref2](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/)
       
   + Supervised
     + Regression [ref1](https://towardsdatascience.com/my-journey-into-machine-learning-class-5-regression-cb6f04006b29), [ref2](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e), [ref3](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)  
