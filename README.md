@@ -5,7 +5,7 @@ Instructor: [Renato Rocha Souza](http://emap.fgv.br/corpo-docente/renato-rocha-s
 
 This is the repository of code for the "Introduction to Data Science"
 
-This class is about the Data Science process, in which we seek to gain useful predictions and insights from data. 
+This class is about the Data Science process, in which we seek to gain useful predictions and insights from data.
 Through real-world examples and code snippets, we introduce methods for:
 
 + data munging, scraping, sampling andcleaning in order to get an informative, manageable data set;
@@ -47,29 +47,38 @@ Detailed Syllabus:
     + [Dimensionality reduction](https://towardsdatascience.com/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)
       + [PCA](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
       + [SVD](https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/)
-      + [t-SNE](https://towardsdatascience.com/checking-out-dimensionality-reduction-with-t-sne-78309b2ca67d) 
-    + [Clustering](https://dataaspirant.com/2016/09/24/classification-clustering-alogrithms/)
-      + K-Means
-      + Hierarchical Clustering
+      + [t-SNE](https://towardsdatascience.com/checking-out-dimensionality-reduction-with-t-sne-78309b2ca67d)
+    + Clustering [ref1](https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/), [ref2](https://dataaspirant.com/2016/09/24/classification-clustering-alogrithms/), [ref3](https://www.analyticsvidhya.com/blog/2013/11/getting-clustering-right/)  
+      + [K-Means](https://towardsdatascience.com/clustering-using-k-means-algorithm-81da00f156f6)  
+      + [Hierarchical Clustering](https://towardsdatascience.com/clustering-unsupervised-learning-788b215b074b)  
       + [K-Modes](https://github.com/nicodv/kmodes)  
-    +Topic Modeling [ref1](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730), [ref2](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/)
-      
+    + Topic Modeling [ref1](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730), [ref2](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/)
+    + [Unsupervised Deep Learning](https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/)
+
   + Supervised
-    + Regression [ref1](https://towardsdatascience.com/my-journey-into-machine-learning-class-5-regression-cb6f04006b29), [ref2](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e), [ref3](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)  
+    + Regression [ref1](https://towardsdatascience.com/my-journey-into-machine-learning-class-5-regression-cb6f04006b29), [ref2](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e), [ref3](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/), [re4](https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef)  
+    + Classification [ref1](https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14), [ref2](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/), [ref3](https://towardsdatascience.com/building-a-deployable-ml-classifier-in-python-46ba55e1d720)
+
+    + Linear Models
       + [Linear Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
-      + [Logistic Regression](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r)
-      + Polynomial Regression [ref1](https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49) [ref2](http://scikit-learn.org/stable/modules/linear_model.html#polynomial-regression-extending-linear-models-with-basis-functions)
-      + [Stepwise Regression](https://planspace.org/20150423-forward_selection_with_statsmodels/)
-      + [Ridge Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
-      + [Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
-      + ElasticNet Regression
-    + [SVM](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
-    + [Passive-Aggressive](https://www.bonaccorso.eu/2017/10/06/ml-algorithms-addendum-passive-aggressive-algorithms/)
-    + [Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+        + Polynomial Regression [ref1](https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49) [ref2](http://scikit-learn.org/stable/modules/linear_model.html#polynomial-regression-extending-linear-models-with-basis-functions)
+        + [Stepwise Regression](https://planspace.org/20150423-forward_selection_with_statsmodels/)
+        + [Ridge Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
+        + [Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
+        + ElasticNet Regression
+      + Logistic Regression (Categorical) [ref1](https://en.wikipedia.org/wiki/Logistic_regression), [ref2](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8),  [ref3](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r)
+
+      + Support Vector Machines [ref1](https://towardsdatascience.com/i-support-vector-machines-and-so-should-you-7af122b6748), [ref2](http://users.ecs.soton.ac.uk/srg/publications/pdf/SVM.pdf), [ref3](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/), [video](https://www.youtube.com/watch?v=_PwhiWxHK8o)  
+        + SVR [ref1](http://kernelsvm.tripod.com/), [ref2](https://alex.smola.org/papers/2003/SmoSch03b.pdf)    
+        + SVC [ref1](http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf), [ref2](https://www.sciencedirect.com/science/article/pii/S0925231203003758)  
+      + [Passive-Aggressive](https://www.bonaccorso.eu/2017/10/06/ml-algorithms-addendum-passive-aggressive-algorithms/)
+      + [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
+    + Bayesian Models
+      + [Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
       + [Gaussian Naive Bayes](http://i.stanford.edu/pub/cstr/reports/cs/tr/79/773/CS-TR-79-773.pdf)
       + [Bernoulli Naive Bayes](http://mattshomepage.com/articles/2016/Jun/07/bernoulli_nb/)
     + [Guassian Mixtures](http://katbailey.github.io/post/gaussian-processes-for-dummies/) [package](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.gaussian_process)
-    + [kNN](http://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
+    + [k Nearest Neighbors (kNN)](http://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
     + Decision Tree [ref1](https://towardsdatascience.com/random-forest-mystery-revealed-69ca18b82ff5), [ref2](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
     + Ensemble Models [ref1](https://en.wikipedia.org/wiki/Ensemble_learning), [ref2](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/) [ref3](https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/), [package](http://scikit-learn.org/stable/modules/ensemble.html)
       + [Bagging](https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/)  
@@ -79,19 +88,22 @@ Detailed Syllabus:
       + [Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
         + [Adaboost](https://towardsdatascience.com/boosting-algorithm-adaboost-b6737a9ee60c)
         + [GBM](https://towardsdatascience.com/boosting-algorithm-gbm-97737c63daa3)
-        + [XGBoost](https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d), [package](https://github.com/dmlc/xgboost) 
+        + [XGBoost](https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d), [package](https://github.com/dmlc/xgboost)
         + [LightGBM](https://towardsdatascience.com/a-case-for-lightgbm-2d05a53c589c)
         + [CatBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
         + [Regularized Greedy Forests](https://www.analyticsvidhya.com/blog/2018/02/introductory-guide-regularized-greedy-forests-rgf-python/), [package](https://github.com/fukatani/rgf_python)
       + [Stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
       + [Voting](https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00)
-    + [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
-    + Neural Networks and Deep Learning [ref1](http://neuralnetworksanddeeplearning.com/chap1.html), [ref2](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba), [ref3](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0), [video](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [meme](https://indico.io/blog/wp-content/uploads/2016/02/inception_meme.jpg)
-      + [Feedforward Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
+
+    + [Genetic Algorithms](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/)  
+        + [TPOT](https://github.com/EpistasisLab/tpot),
+        + [Auto SKLearn](https://github.com/automl/auto-sklearn)  
+
+    + Neural Networks and Deep Learning [ref1](http://neuralnetworksanddeeplearning.com/chap1.html), [ref2](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba), [ref3](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0),  [ref4](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/), [video](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [meme](https://indico.io/blog/wp-content/uploads/2016/02/inception_meme.jpg)
       + Convolutional Neural Networks [ref1](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/), [ref2](https://www.saama.com/blog/different-kinds-convolutional-filters/), [ref3](https://software.intel.com/en-us/articles/hands-on-ai-part-16-modern-deep-neural-network-architectures-for-image-classification)
-        + [Convolution for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/) 
+        + [Convolution for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
       + Sequence Models
-        + Word2vec [ref1](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233), [trained models](http://www.nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
+        + Word2vec [ref1](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233), [trained-models](http://www.nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
       + [Generative Adversarial Networks](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/)
       + Neural Network concepts
         + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
@@ -100,9 +112,7 @@ Detailed Syllabus:
         + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
         + [Neural Network Visualization](https://playground.tensorflow.org/)
-    + [Genetic Algorithms](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/)  
-        + [TPOT](https://github.com/EpistasisLab/tpot), 
-        + [Auto SKLearn](https://github.com/automl/auto-sklearn)
+
 
 + Data Science Tasks
   + Time Series Analysis [ref1](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/), [ref2](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
