@@ -98,7 +98,7 @@ Detailed Syllabus:
         + [TPOT](https://github.com/EpistasisLab/tpot),
         + [Auto SKLearn](https://github.com/automl/auto-sklearn)  
 
-    + Neural Networks and Deep Learning [ref1](http://neuralnetworksanddeeplearning.com/chap1.html), [ref2](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba), [ref3](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0),  [ref4](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/), [ref5](https://www.analyticsvidhya.com/blog/2018/05/deep-learning-faq/), [video](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [meme](https://indico.io/blog/wp-content/uploads/2016/02/inception_meme.jpg)
+    + Neural Networks and Deep Learning [ref1](http://neuralnetworksanddeeplearning.com/chap1.html), [ref2](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba), [ref3](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0),  [ref4](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/), [ref5](https://www.analyticsvidhya.com/blog/2018/05/deep-learning-faq/), [ref6](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750), [video](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [meme](https://indico.io/blog/wp-content/uploads/2016/02/inception_meme.jpg)
       + Convolutional Neural Networks [ref1](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/), [ref2](https://www.saama.com/blog/different-kinds-convolutional-filters/), [ref3](https://software.intel.com/en-us/articles/hands-on-ai-part-16-modern-deep-neural-network-architectures-for-image-classification)
         + [Convolution for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
       + Sequence Models
@@ -127,7 +127,7 @@ Detailed Syllabus:
     + [Github](https://guides.github.com/)
     + [Gitlab](https://about.gitlab.com/)
   + Exploratory Data Analysis Tools
-    + Jupyter [ref1](http://jupyter.org/), [ref2](https://github.com/jupyterlab/jupyterlab) [ref3](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
+    + Jupyter [ref1](http://jupyter.org/), [ref2](https://github.com/jupyterlab/jupyterlab), [ref3](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
     + Numpy [ref1](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [ref2](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
     + Pandas [ref1](http://proquest.safaribooksonline.com/9781449323592), [ref2](http://pandas.pydata.org/pandas-docs/stable/)
       + [Pandas Machine Learning](http://pandas-ml.readthedocs.io/en/stable/)
