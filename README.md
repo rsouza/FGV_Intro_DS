@@ -16,7 +16,7 @@ Through real-world examples and code snippets, we introduce methods for:
 
 Detailed Syllabus:
 
-+ Data Science Concepts [ref1](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/edit?usp=sharing, [book1](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book2](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967), [course](http://cs109.github.io/2015/index.html)
++ Data Science Concepts [ref1](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [book1](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book2](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967), [course](http://cs109.github.io/2015/index.html)
   + [Statistics](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745)
   + [AI]((https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning))
   + Machine Learning [ref1](https://medium.com/@lizzie_turner/lets-talk-about-machine-learning-ddca914e9dd1)
