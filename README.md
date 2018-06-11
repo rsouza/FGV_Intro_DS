@@ -103,7 +103,7 @@ Detailed Syllabus:
         + [Convolution for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
       + RNNs (Sequence Models) [ref1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
         + Word2vec [ref1](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233), [trained-models](http://www.nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
-      + Reinforcement Learning [ref1](https://towardsdatascience.com/reinforcement-learning-demystified-36c39c11ec14), [ref2](https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690), [ref3](https://gym.openai.com/docs/)  
+      + Reinforcement Learning [ref1](https://towardsdatascience.com/reinforcement-learning-demystified-36c39c11ec14), [ref2](https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690), [ref3](https://gym.openai.com/docs/), [ref4](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)  
       + Generative Adversarial Networks [ref1](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/), [ref2](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0), [ref3](https://medium.com/@mattiaspinelli/simple-generative-adversarial-network-gans-with-keras-1fe578e44a87), 
       + Neural Network concepts
         + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
@@ -130,7 +130,7 @@ Detailed Syllabus:
   + Exploratory Data Analysis Tools
     + Jupyter [ref1](http://jupyter.org/), [ref2](https://github.com/jupyterlab/jupyterlab), [ref3](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
     + Numpy [ref1](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [ref2](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
-    + Pandas [ref1](http://proquest.safaribooksonline.com/9781449323592), [ref2](http://pandas.pydata.org/pandas-docs/stable/)
+    + Pandas [ref1](http://proquest.safaribooksonline.com/9781449323592), [ref2](http://pandas.pydata.org/pandas-docs/stable/), [ref3](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)  
       + [Pandas Machine Learning](http://pandas-ml.readthedocs.io/en/stable/)
       + [Geopandas](http://geopandas.org/)
     + [Statsmodels](http://www.statsmodels.org/stable/index.html)
@@ -171,4 +171,5 @@ Detailed Syllabus:
     + [ODO](https://odo.readthedocs.io/en/latest/)
   + Relational databases and SQL
   + NoSQL Databases
+    + [Elastic Search](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
   + Graph Databases
