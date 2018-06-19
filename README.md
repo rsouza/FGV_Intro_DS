@@ -17,7 +17,7 @@ Through real-world examples and code snippets, we introduce methods for:
 Detailed Syllabus:
 
 + Data Science Concepts [ref1](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [book1](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book2](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967), [course](http://cs109.github.io/2015/index.html)
-  + [Statistics](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745)
+  + Statistics [book](http://greenteapress.com/thinkstats2/html/index.html), [ref1](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745)
   + [AI]((https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning))
   + Machine Learning [ref1](https://medium.com/@lizzie_turner/lets-talk-about-machine-learning-ddca914e9dd1)
   + [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
@@ -27,7 +27,7 @@ Detailed Syllabus:
   + Data Engineering [ref1](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603), [ref2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7), [ref3](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)  
     + [Handling Missing Values](http://www.ritchieng.com/pandas-handling-missing-values/)
     + [Changing Datatypes](http://www.ritchieng.com/pandas-changing-datatype/)
-  + Exploratory Data Analysis [ref1](http://greenteapress.com/thinkstats2/html/index.html), [ref2](http://people.duke.edu/~ccc14/sta-663-2017/#), [ref3](oreilly.com/catalog/9780596802363/)  
+  + Exploratory Data Analysis [ref1](http://people.duke.edu/~ccc14/sta-663-2017/#), [book](oreilly.com/catalog/9780596802363/)  
   + Data Visualization [ref1](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f), [ref2](https://www.linuxlinks.com/best-free-python-visualization-packages/)  
 + Feature Engineering
 + [Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
