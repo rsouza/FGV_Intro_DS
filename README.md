@@ -22,9 +22,9 @@ Detailed Syllabus:
   + Machine Learning [ref1](https://medium.com/@lizzie_turner/lets-talk-about-machine-learning-ddca914e9dd1)
   + [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
 + Data Science Process [ref1](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420), [ref2](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)  
-  + [Data Formats]
+  + [Data Formats](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)
   + [Data Acquisition](http://metah.ch/blog/2014/09/introduction-to-machine-learning-from-data-acquisition-to-a-production-service-2/)  
-  + Data Engineering [ref1](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603), [ref2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7), [ref3](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)  
+  + Data Engineering [ref1](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603), [ref2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)  
     + [Handling Missing Values](http://www.ritchieng.com/pandas-handling-missing-values/)
     + [Changing Datatypes](http://www.ritchieng.com/pandas-changing-datatype/)
   + Exploratory Data Analysis [ref1](http://people.duke.edu/~ccc14/sta-663-2017/#), [book](oreilly.com/catalog/9780596802363/)  
