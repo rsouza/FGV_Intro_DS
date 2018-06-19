@@ -43,7 +43,7 @@ Detailed Syllabus:
 + Evaluation Metrics [ref1](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4), [ref2](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 
 + Machine Learning Algorithms [ref1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [ref2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [ref3](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11), [ref4](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/), [ref5](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
-  + Unsupervised
+  + [Unsupervised](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
     + [Dimensionality reduction](https://towardsdatascience.com/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)
       + [PCA](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
       + [SVD](https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/)
@@ -98,7 +98,7 @@ Detailed Syllabus:
         + [TPOT](https://github.com/EpistasisLab/tpot),
         + [Auto SKLearn](https://github.com/automl/auto-sklearn)  
 
-    + Neural Networks and Deep Learning [ref1](http://neuralnetworksanddeeplearning.com/chap1.html), [ref2](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba), [ref3](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0),  [ref4](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/), [ref5](https://www.analyticsvidhya.com/blog/2018/05/deep-learning-faq/), [ref6](https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html), [video](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [meme](https://indico.io/blog/wp-content/uploads/2016/02/inception_meme.jpg)
+    + Neural Networks and Deep Learning [ref1](http://neuralnetworksanddeeplearning.com/chap1.html), [ref2](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba), [ref3](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0),  [ref4](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/), [ref5](https://www.analyticsvidhya.com/blog/2018/05/deep-learning-faq/), [ref6](https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html), [book](http://www.deeplearningbook.org/contents/TOC.html), [video](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [meme](https://indico.io/blog/wp-content/uploads/2016/02/inception_meme.jpg)
       + Convolutional Neural Networks [ref1](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1), [ref2](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/), [ref3](https://www.saama.com/blog/different-kinds-convolutional-filters/), [ref4](https://software.intel.com/en-us/articles/hands-on-ai-part-16-modern-deep-neural-network-architectures-for-image-classification)
         + [Convolution for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
       + RNNs (Sequence Models) [ref1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
@@ -161,6 +161,7 @@ Detailed Syllabus:
   + Big Data and Distributed computing
     + Map Reduce
     + [Spark](https://towardsdatascience.com/deploy-a-python-model-more-efficiently-over-spark-497fc03e0a8d)
+    + [Dask](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b)
   + Analytical Pipelines
     + [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
     + [Luigi](https://github.com/spotify/luigi)
