@@ -52,7 +52,7 @@ Detailed Syllabus:
       + [K-Means](https://towardsdatascience.com/clustering-using-k-means-algorithm-81da00f156f6)  
       + [Hierarchical Clustering](https://towardsdatascience.com/clustering-unsupervised-learning-788b215b074b)  
       + [K-Modes](https://github.com/nicodv/kmodes)  
-    + Topic Modeling [ref1](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730), [ref2](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/)
+    + Topic Modeling [ref1](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730), [ref2](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/), [ref3](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
     + [Unsupervised Deep Learning](https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/)
 
   + Supervised
@@ -67,7 +67,7 @@ Detailed Syllabus:
         + ElasticNet Regression
       + Logistic Regression (Categorical) [ref1](https://en.wikipedia.org/wiki/Logistic_regression), [ref2](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8),  [ref3](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r)
 
-      + Support Vector Machines [ref1](https://towardsdatascience.com/i-support-vector-machines-and-so-should-you-7af122b6748), [ref2](http://users.ecs.soton.ac.uk/srg/publications/pdf/SVM.pdf), [ref3](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/), [video](https://www.youtube.com/watch?v=_PwhiWxHK8o)  
+      + Support Vector Machines [ref1](https://towardsdatascience.com/i-support-vector-machines-and-so-should-you-7af122b6748), [ref2](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47), [ref3](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/), [paper](http://users.ecs.soton.ac.uk/srg/publications/pdf/SVM.pdf), [video](https://www.youtube.com/watch?v=_PwhiWxHK8o)  
         + SVR [ref1](http://kernelsvm.tripod.com/), [ref2](https://alex.smola.org/papers/2003/SmoSch03b.pdf)    
         + SVC [ref1](http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf), [ref2](https://www.sciencedirect.com/science/article/pii/S0925231203003758)  
       + [Passive-Aggressive](https://www.bonaccorso.eu/2017/10/06/ml-algorithms-addendum-passive-aggressive-algorithms/)
@@ -119,8 +119,8 @@ Detailed Syllabus:
   + NLP and Text Mining
   + Information Retrieval
   + Graphs and Network Analysis
-  + Sentiment Analysis [ref1](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90), [ref2](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913), [ref3](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7), [ref4](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5), [ref5](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-5-50b4e87d9bdd)
-  + Recommender Systems
+  + Sentiment Analysis [ref1](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90), [ref2](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913), [ref3](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7), [ref4](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5), [ref5](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-5-50b4e87d9bdd), [ref6](https://towardsdatascience.com/basic-data-cleaning-engineering-session-twitter-sentiment-data-95e5bd2869ec), [ref7](https://towardsdatascience.com/a-beginners-guide-on-sentiment-analysis-with-rnn-9e100627c02e)
+  + Recommender Systems [ref1](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/), [ref2](https://www.datacamp.com/community/tutorials/recommender-systems-python), [ref3](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
 
 + Data Science and Visualization Tools
   + Versioning Tools
