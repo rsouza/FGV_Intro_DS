@@ -17,6 +17,7 @@ Through real-world examples and code snippets, we introduce methods for:
 Detailed Syllabus:
 
 + Data Science Concepts [ref1](https://towardsdatascience.com/the-what-where-and-how-of-data-science-6dda1af98671), [ref2](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [book1](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book2](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967), [course](http://cs109.github.io/2015/index.html)
+  + Data Scientists [ref1](https://towardsdatascience.com/data-scientist-from-good-to-great-5e6aed447b69), [re2](https://towardsdatascience.com/data-scientist-from-good-to-great-part-2-614f1ed2aaeb), [learning path](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+Python-Final-Jan-Feb+Python-Session-1/about)
   + Statistics [book](http://greenteapress.com/thinkstats2/html/index.html), [ref1](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745)
   + [AI]((https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning))
   + Machine Learning [ref1](https://medium.com/@lizzie_turner/lets-talk-about-machine-learning-ddca914e9dd1)
@@ -102,7 +103,7 @@ Detailed Syllabus:
       + Convolutional Neural Networks [ref1](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1), [ref2](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/), [ref3](https://www.saama.com/blog/different-kinds-convolutional-filters/), [ref4](https://software.intel.com/en-us/articles/hands-on-ai-part-16-modern-deep-neural-network-architectures-for-image-classification)
         + [Convolution for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
       + RNNs (Sequence Models) [ref1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
-        + Word2vec [ref1](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233), [trained-models](http://www.nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
+        + Word2vec [ref1](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233), [ref2](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-understanding-word2vec-e0128a460f0f), [trained-models](http://www.nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
       + Reinforcement Learning [ref1](https://towardsdatascience.com/reinforcement-learning-demystified-36c39c11ec14), [ref2](https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690), [ref3](https://gym.openai.com/docs/), [ref4](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)  
       + Generative Adversarial Networks [ref1](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/), [ref2](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0), [ref3](https://medium.com/@mattiaspinelli/simple-generative-adversarial-network-gans-with-keras-1fe578e44a87), 
       + Neural Network concepts
