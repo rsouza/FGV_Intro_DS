@@ -58,7 +58,7 @@ Detailed Syllabus:
 
   + Supervised
     + Regression [ref1](https://www.analyticsvidhya.com/blog/2015/10/regression-python-beginners/), [ref2](https://towardsdatascience.com/my-journey-into-machine-learning-class-5-regression-cb6f04006b29), [ref3](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e), [ref4](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/), [ref5](https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef)  
-    + Classification [ref1](https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14), [ref2](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/), [ref3](https://towardsdatascience.com/building-a-deployable-ml-classifier-in-python-46ba55e1d720)
+    + Classification [ref1](https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623), [ref2](https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14), [ref3](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/), [ref3](https://towardsdatascience.com/building-a-deployable-ml-classifier-in-python-46ba55e1d720)
     + Linear Models
       + [Linear Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
         + Polynomial Regression [ref1](https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49) [ref2](http://scikit-learn.org/stable/modules/linear_model.html#polynomial-regression-extending-linear-models-with-basis-functions)
