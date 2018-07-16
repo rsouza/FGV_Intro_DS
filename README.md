@@ -109,14 +109,14 @@ Detailed Syllabus:
       + Neural Network concepts
         + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
         + [Weight Averaging](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
-        + Gradient Descent [ref1](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [ref2](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
+        + Gradient Descent [video](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [ref2](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
         + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
         + [Neural Network Visualization](https://playground.tensorflow.org/)
 
 
 + Data Science Tasks
-  + Time Series Analysis [ref1](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/), [ref2](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/), [ref3](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
+  + Time Series Analysis [ref1](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/), [ref2](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/), [ref3](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016), [video](https://www.youtube.com/watch?v=e8Yw4alG16Q)
   + NLP and Text Mining
   + Information Retrieval
   + Graphs and Network Analysis
