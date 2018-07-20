@@ -16,7 +16,7 @@ Through real-world examples and code snippets, we introduce methods for:
 
 Detailed Syllabus:
 
-+ Data Science Concepts [ref1](https://towardsdatascience.com/the-what-where-and-how-of-data-science-6dda1af98671), [ref2](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [book1](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book2](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967), [course](http://cs109.github.io/2015/index.html)
++ Data Science Concepts [ref1](https://towardsdatascience.com/the-what-where-and-how-of-data-science-6dda1af98671), [ref2](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [ref3](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec), [book1](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book2](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967), [course](http://cs109.github.io/2015/index.html)
   + Data Scientists [ref1](https://towardsdatascience.com/data-scientist-from-good-to-great-5e6aed447b69), [re2](https://towardsdatascience.com/data-scientist-from-good-to-great-part-2-614f1ed2aaeb), [learning path](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+Python-Final-Jan-Feb+Python-Session-1/about)
   + Statistics [book](http://greenteapress.com/thinkstats2/html/index.html), [ref1](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745)
   + [AI]((https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning))
@@ -95,7 +95,7 @@ Detailed Syllabus:
       + [Stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
       + [Voting](https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00)
 
-    + [Genetic Algorithms](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/)  
+    + Genetic Algorithms[ref1](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/), [ref2](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)  
         + [TPOT](https://github.com/EpistasisLab/tpot),
         + [Auto SKLearn](https://github.com/automl/auto-sklearn)  
 
