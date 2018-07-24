@@ -16,8 +16,8 @@ Through real-world examples and code snippets, we introduce methods for:
 
 Detailed Syllabus:
 
-+ Data Science Concepts [ref1](https://towardsdatascience.com/the-what-where-and-how-of-data-science-6dda1af98671), [ref2](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [ref3](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec), [book1](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book2](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967), [course](http://cs109.github.io/2015/index.html)
-  + Data Scientists [ref1](https://towardsdatascience.com/data-scientist-from-good-to-great-5e6aed447b69), [re2](https://towardsdatascience.com/data-scientist-from-good-to-great-part-2-614f1ed2aaeb), [learning path](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+Python-Final-Jan-Feb+Python-Session-1/about)
++ Data Science Concepts [ref1](https://towardsdatascience.com/the-what-where-and-how-of-data-science-6dda1af98671), [ref2](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [ref3](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec), [ref4](https://medium.com/trainingcenter/data-science-um-panorama-geral-87edbbd35885), [book1](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book2](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967), [course](http://cs109.github.io/2015/index.html)
+  + Data Scientists [ref1](https://towardsdatascience.com/data-scientist-from-good-to-great-5e6aed447b69), [re2](https://towardsdatascience.com/data-scientist-from-good-to-great-part-2-614f1ed2aaeb), [ref3](https://towardsdatascience.com/whats-the-secret-sauce-to-transforming-into-a-unicorn-in-data-science-94082b01c39d), [learning path](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+Python-Final-Jan-Feb+Python-Session-1/about)
   + Statistics [book](http://greenteapress.com/thinkstats2/html/index.html), [ref1](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745)
   + [AI]((https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning))
   + Machine Learning [ref1](https://medium.com/@lizzie_turner/lets-talk-about-machine-learning-ddca914e9dd1)
@@ -30,18 +30,20 @@ Detailed Syllabus:
     + [Changing Datatypes](http://www.ritchieng.com/pandas-changing-datatype/)
   + Exploratory Data Analysis [ref1](http://people.duke.edu/~ccc14/sta-663-2017/#), [book](oreilly.com/catalog/9780596802363/)  
   + Data Visualization [ref1](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f), [ref2](https://www.linuxlinks.com/best-free-python-visualization-packages/)  
-+ Feature Engineering
-+ [Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
-  + [Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
-  + [Discrete/Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
-  + Textual Data [ref1](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41), [ref2](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
+  
 + [Model Selection](https://towardsdatascience.com/data-science-simplified-part-6-model-selection-methods-2511cbdf7cb0)
-+ Cross Validation [ref1](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/), [video1](https://www.coursera.org/learn/deep-neural-network/lecture/cxG1s/train-dev-test-sets)
-+ Oversampling and Undersampling [ref1](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume16/chawla02a-html/)
-+ Regularization [ref1](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a), [ref2](https://www.analyticsvidhya.com/blog/2015/02/avoid-over-fitting-regularization/)
-+ [Bias and Variance](https://towardsdatascience.com/balancing-bias-and-variance-to-control-errors-in-machine-learning-16ced95724db)
-+ [Overfitting and Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)
-+ Evaluation Metrics [ref1](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4), [ref2](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
+  + Feature Engineering
+  + [Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
+    + [Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
+    + [Discrete/Categorical Data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
+    + Textual Data [ref1](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41), [ref2](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
+  + Hiperparameter Search [ref1](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
+  + Cross Validation [ref1](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/), [video1](https://www.coursera.org/learn/deep-neural-network/lecture/cxG1s/train-dev-test-sets)
+  + Oversampling and Undersampling [ref1](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume16/chawla02a-html/)
+  + Regularization [ref1](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a), [ref2](https://www.analyticsvidhya.com/blog/2015/02/avoid-over-fitting-regularization/)
+  + [Bias and Variance](https://towardsdatascience.com/balancing-bias-and-variance-to-control-errors-in-machine-learning-16ced95724db)
+  + [Overfitting and Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)
+  + Evaluation Metrics [ref1](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4), [ref2](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 
 + Machine Learning Algorithms [ref1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [ref2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [ref3](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11), [ref4](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/), [ref5](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/), [ref6](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
   + [Unsupervised](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
@@ -95,7 +97,7 @@ Detailed Syllabus:
       + [Stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
       + [Voting](https://towardsdatascience.com/ensemble-learning-in-machine-learning-getting-started-4ed85eb38e00)
 
-    + Genetic Algorithms[ref1](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/), [ref2](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)  
+    + Genetic Algorithms [ref1](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/), [ref2](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)  
         + [TPOT](https://github.com/EpistasisLab/tpot),
         + [Auto SKLearn](https://github.com/automl/auto-sklearn)  
 
