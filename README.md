@@ -67,7 +67,7 @@ Detailed Syllabus:
         + [Stepwise Regression](https://planspace.org/20150423-forward_selection_with_statsmodels/)
         + [Ridge Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
         + [Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
-        + ElasticNet Regression
+        + [ElasticNet Regression](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)  
       + Logistic Regression (Categorical) [ref1](https://en.wikipedia.org/wiki/Logistic_regression), [ref2](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8),  [ref3](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r)
 
       + Support Vector Machines [ref1](https://towardsdatascience.com/i-support-vector-machines-and-so-should-you-7af122b6748), [ref2](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47), [ref3](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/), [paper](http://users.ecs.soton.ac.uk/srg/publications/pdf/SVM.pdf), [video](https://www.youtube.com/watch?v=_PwhiWxHK8o)  
@@ -100,6 +100,7 @@ Detailed Syllabus:
     + Genetic Algorithms [ref1](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/), [ref2](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)  
         + [TPOT](https://github.com/EpistasisLab/tpot),
         + [Auto SKLearn](https://github.com/automl/auto-sklearn)  
+        + [Auto Keras](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
 
     + Neural Networks and Deep Learning [ref1](http://neuralnetworksanddeeplearning.com/chap1.html), [ref2](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba), [ref3](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0),  [ref4](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/), [ref5](https://www.analyticsvidhya.com/blog/2018/05/deep-learning-faq/), [ref6](https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html), [ref7](https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e), [book](http://www.deeplearningbook.org/contents/TOC.html), [video](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [meme](https://indico.io/blog/wp-content/uploads/2016/02/inception_meme.jpg)
       + Convolutional Neural Networks [ref1](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1), [ref2](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-convolution-neural-networks-e3f054dd5daa), [ref3](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/), [ref4](https://www.saama.com/blog/different-kinds-convolutional-filters/), [ref5](https://software.intel.com/en-us/articles/hands-on-ai-part-16-modern-deep-neural-network-architectures-for-image-classification)
@@ -107,7 +108,7 @@ Detailed Syllabus:
         + [CNNs for object detection](https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad)
       + RNNs (Sequence Models) [ref1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
         + Word2vec [ref1](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233), [ref2](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-understanding-word2vec-e0128a460f0f), [en-us trained models](http://ahogrammer.com/2017/01/20/the-list-of-pretrained-word-embeddings/), [pt-br trained models](http://www.nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
-      + Reinforcement Learning [ref1](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9), [ref2](https://towardsdatascience.com/reinforcement-learning-demystified-36c39c11ec14), [ref3](https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690), [ref4](https://gym.openai.com/docs/), [ref5](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)  
+      + Reinforcement Learning [ref1](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287), [ref2](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9), [ref3](https://towardsdatascience.com/reinforcement-learning-demystified-36c39c11ec14), [ref4](https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690), [ref5](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8), [programming resource](https://gym.openai.com/docs/)   
       + Generative Adversarial Networks [ref1](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/), [ref2](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0), [ref3](https://medium.com/@mattiaspinelli/simple-generative-adversarial-network-gans-with-keras-1fe578e44a87), 
       + Neural Network concepts
         + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
@@ -137,6 +138,7 @@ Detailed Syllabus:
     + Pandas [ref1](http://proquest.safaribooksonline.com/9781449323592), [ref2](http://pandas.pydata.org/pandas-docs/stable/), [ref3](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)  
       + [Pandas Machine Learning](http://pandas-ml.readthedocs.io/en/stable/)
       + [Geopandas](http://geopandas.org/)
+      + [Framequery](https://pypi.org/project/framequery/)
     + [Statsmodels](http://www.statsmodels.org/stable/index.html)
   + Machine Learning Tools
     + [Scikit-Learn](http://scikit-learn.org/stable/)
