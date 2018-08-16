@@ -157,7 +157,7 @@ Detailed Syllabus:
   + Visualization Tools
     + [Matplotlib](https://matplotlib.org/)
     + [Seaborn](https://seaborn.pydata.org/)
-    + [Bokeh](https://bokeh.pydata.org/en/latest/)
+    + Bokeh [ref1](https://bokeh.pydata.org/en/latest/), [example](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
     + [Plotly](https://plot.ly/)
     + [Altair](https://altair-viz.github.io/)
     + [GGPlot2](http://ggplot.yhathq.com/)
