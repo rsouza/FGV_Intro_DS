@@ -138,6 +138,7 @@ Detailed Syllabus:
     + Numpy [ref1](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [ref2](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
     + Pandas [ref1](http://proquest.safaribooksonline.com/9781449323592), [ref2](http://pandas.pydata.org/pandas-docs/stable/), [ref3](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)  
       + [Pandas Machine Learning](http://pandas-ml.readthedocs.io/en/stable/)
+      + [SKLearn Pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
       + [Geopandas](http://geopandas.org/)
       + [Framequery](https://pypi.org/project/framequery/)
     + [Statsmodels](http://www.statsmodels.org/stable/index.html)
