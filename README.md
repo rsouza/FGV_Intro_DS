@@ -113,6 +113,7 @@ Detailed Syllabus:
       + Neural Network concepts
         + [Weight Initialization](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
         + [Weight Averaging](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
+        + [Hyperparameter Tuning](https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c)
         + Gradient Descent [ref1](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3), [video](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
         + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
@@ -164,6 +165,10 @@ Detailed Syllabus:
     + [HoloViews](http://holoviews.org/)
     + [Folium](http://python-visualization.github.io/folium/)
       + [Leaflet](http://leafletjs.com/)
+    + Neural Networks  visualization
+      + [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard)
+      + [Tensor Flow Playground](https://playground.tensorflow.org/)
+      + [Deep Replay](https://github.com/dvgodoy/deepreplay)
   + Big Data and Distributed computing
     + Map Reduce
     + [Spark](https://towardsdatascience.com/deploy-a-python-model-more-efficiently-over-spark-497fc03e0a8d)
