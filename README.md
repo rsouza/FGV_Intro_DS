@@ -35,6 +35,8 @@ Detailed Syllabus:
   
 + Model Selection [ref1](https://towardsdatascience.com/data-science-simplified-part-6-model-selection-methods-2511cbdf7cb0)
   + Feature Engineering [ref1](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)  
+    + Automated Feature Engineering  
+      [featuretools](https://www.featuretools.com/)
   + Feature Selection [ref1](http://scikit-learn.org/stable/modules/feature_selection.html)
     + Numeric Data [ref1](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
     + Discrete/Categorical Data [ref1](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
