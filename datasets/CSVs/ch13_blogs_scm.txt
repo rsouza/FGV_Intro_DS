@@ -1,13 +1,3 @@
-http://feeds2.feedburner.com/uhull?format=xml
-http://feeds.feedburner.com/sedentario?format=xml
-http://feeds.feedburner.com/DepoisDosQuinze?format=xml
-http://feeds.feedburner.com/insoonia?format=xml
-http://feeds.feedburner.com/sitesobrelivros?format=xml
-http://feeds.feedburner.com/clubedopairico?format=xml
-http://feeds.feedburner.com/Ueba?format=xml
-http://feeds.feedburner.com/CaixaPretta?format=xml
-http://feeds.feedburner.com/revistaleaf?format=xml
-http://feeds.feedburner.com/ReceitaDoSucesso?format=xml
-http://feeds.feedburner.com/atoananet
-http://colunistas.ig.com.br/obutecodanet/feed/
-http://almanaquedobem.com/feed/
+version https://git-lfs.github.com/spec/v1
+oid sha256:0649c9632f86ba05248a3c249939a53f727f04da1adafa7508dba95b0d7ad224
+size 627
