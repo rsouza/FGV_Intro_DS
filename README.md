@@ -136,6 +136,7 @@ Detailed Syllabus:
   + Versioning Tools
     + [Git](https://git-scm.com/book/en/v2)
     + [Github](https://guides.github.com/)
+    + [GIT Large File Versioning](https://git-lfs.github.com/)
     + [Gitlab](https://about.gitlab.com/)
   + Exploratory Data Analysis Tools
     + Jupyter [ref1](http://jupyter.org/), [ref2](https://github.com/jupyterlab/jupyterlab), [ref3](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/), [ref4](https://towardsdatascience.com/data-science-for-startups-r-python-2ca2cd149c5c)
