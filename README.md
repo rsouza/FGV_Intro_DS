@@ -190,4 +190,7 @@ Detailed Syllabus:
   + Relational databases and SQL
   + NoSQL Databases
     + [Elastic Search](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
-  + Graph Databases
+    + Graph Databases
+    
+    
+We are using https://git-lfs.github.com because the /datasets files can be large. Install it before the git clone.  
