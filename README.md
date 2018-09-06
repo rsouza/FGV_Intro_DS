@@ -94,7 +94,7 @@ Detailed Syllabus:
       + Boosting [ref1](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
         + Adaboost [ref1](https://towardsdatascience.com/boosting-algorithm-adaboost-b6737a9ee60c)
         + GBM [ref1](https://towardsdatascience.com/boosting-algorithm-gbm-97737c63daa3)
-        + XGBoost [ref1](https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d), [package](https://github.com/dmlc/xgboost)
+        + XGBoost [ref1](https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d), [ref2](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/), [package](https://github.com/dmlc/xgboost)  
         + LightGBM [ref1](https://towardsdatascience.com/a-case-for-lightgbm-2d05a53c589c)
         + CatBoost [ref1](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
         + Regularized Greedy Forests [ref1](https://www.analyticsvidhya.com/blog/2018/02/introductory-guide-regularized-greedy-forests-rgf-python/), [package](https://github.com/fukatani/rgf_python)
