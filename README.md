@@ -193,4 +193,4 @@ Detailed Syllabus:
     + Graph Databases
     
     
-We are using https://git-lfs.github.com because the /datasets files can be large. Install it before the git clone.  
+We are using https://git-lfs.github.com because the /datasets files can be large. [Install](https://github.com/git-lfs/git-lfs/wiki/Installation) it before the git clone.  
