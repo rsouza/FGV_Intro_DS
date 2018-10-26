@@ -1,0 +1,17 @@
+> cidade: nome do município.
+> ano: ano referência dos dados.
+> pib: PIB do município.
+> mat1517: percentual da população entre 15 e 17 anos, matriculada no ensino médio.
+> veiculos: quantidade de veículos registrados no município.
+> motos: quantidade de motos registradas no município.
+> populacao: população do município.
+> pop1519: população entre 15 e 19 anos.
+> pop2024: população entre 20 e 24 anos.
+> pop2529: população entre 25 e 29 anos.
+> pop60p: percentual da população acima de 60 anos.
+> ibge: código IBGE do município.
+> jovem: pop1519 + pop2024 + pop2529
+> pjovem: jovem/populacao
+> pmotos: 100*motos/veiculos.
+> pmat: 100*mat1517/populacao.
+> rodovia: extensão de rodovias, em km, do município.
