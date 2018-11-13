@@ -116,10 +116,10 @@ Detailed Syllabus:
       + Generative Adversarial Networks [ref1](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/), [ref2](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0), [ref3](https://medium.com/@mattiaspinelli/simple-generative-adversarial-network-gans-with-keras-1fe578e44a87)  
       + Neural Network concepts
         + Weight Initialization [ref1](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94), [ref2](https://towardsdatascience.com/random-initialization-for-neural-networks-a-thing-of-the-past-bfcdd806bf9e)
-        + [Weight Averaging](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
-        + [Hyperparameter Tuning](https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c)
+        + Weight Averaging [ref1](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
+        + Hyperparameter Tuning [ref1](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/), [ref2](https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c)  
         + Gradient Descent [ref1](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3), [video](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-        + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+        + Backpropagation [ref1](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
         + [Neural Network Visualization](https://playground.tensorflow.org/)
 
