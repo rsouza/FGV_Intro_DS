@@ -78,7 +78,7 @@ Detailed Syllabus:
         + SVR [ref1](http://kernelsvm.tripod.com/), [ref2](https://alex.smola.org/papers/2003/SmoSch03b.pdf)    
         + SVC [ref1](http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf), [ref2](https://www.sciencedirect.com/science/article/pii/S0925231203003758)  
       + Passive-Aggressive [ref1](https://www.bonaccorso.eu/2017/10/06/ml-algorithms-addendum-passive-aggressive-algorithms/)
-      + Perceptron [ref1](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
+      + Perceptron [ref1](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53), [ref2](https://towardsdatascience.com/from-biology-to-ai-the-perceptron-81abfdc788bf)  
     + Bayesian Models
       + Naive Bayes [ref1](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
       + Gaussian Naive Bayes [ref1](http://i.stanford.edu/pub/cstr/reports/cs/tr/79/773/CS-TR-79-773.pdf)
