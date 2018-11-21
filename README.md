@@ -20,7 +20,7 @@ Detailed Syllabus:
 + Related Courses [cs109](https://github.com/cs109/a-2017), [cs229](http://cs229.stanford.edu/), [ML Andrew Ng](https://www.coursera.org/learn/machine-learning)
 + Data Science Concepts [ref1](https://towardsdatascience.com/the-what-where-and-how-of-data-science-6dda1af98671), [ref2](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [ref3](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec), [ref4](https://medium.com/trainingcenter/data-science-um-panorama-geral-87edbbd35885), [book1](http://www.datascienceassn.org/sites/default/files/Foundations%20of%20Data%20Science%20-%20Textbook.pdf), [book2](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book3](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
   + Data Scientists [ref1](https://towardsdatascience.com/data-scientist-from-good-to-great-5e6aed447b69), [re2](https://towardsdatascience.com/data-scientist-from-good-to-great-part-2-614f1ed2aaeb), [ref3](https://towardsdatascience.com/whats-the-secret-sauce-to-transforming-into-a-unicorn-in-data-science-94082b01c39d), [learning path](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+Python-Final-Jan-Feb+Python-Session-1/about)
-  + Statistics [book](http://greenteapress.com/thinkstats2/html/index.html), [ref1](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745)
+  + Statistics [book](http://greenteapress.com/thinkstats2/html/index.html), [ref1](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745), [ref2](https://towardsdatascience.com/inferential-statistics-basics-294512909a33)  
   + AI [ref1](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
   + Machine Learning [ref1](https://medium.com/@lizzie_turner/lets-talk-about-machine-learning-ddca914e9dd1), [ref2](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
   + Business Intelligence [ref1](https://en.wikipedia.org/wiki/Business_intelligence)
@@ -78,7 +78,7 @@ Detailed Syllabus:
         + SVR [ref1](http://kernelsvm.tripod.com/), [ref2](https://alex.smola.org/papers/2003/SmoSch03b.pdf)    
         + SVC [ref1](http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf), [ref2](https://www.sciencedirect.com/science/article/pii/S0925231203003758)  
       + Passive-Aggressive [ref1](https://www.bonaccorso.eu/2017/10/06/ml-algorithms-addendum-passive-aggressive-algorithms/)
-      + Perceptron [ref1](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
+      + Perceptron [ref1](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53), [ref2](https://towardsdatascience.com/from-biology-to-ai-the-perceptron-81abfdc788bf)  
     + Bayesian Models
       + Naive Bayes [ref1](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
       + Gaussian Naive Bayes [ref1](http://i.stanford.edu/pub/cstr/reports/cs/tr/79/773/CS-TR-79-773.pdf)
@@ -116,10 +116,10 @@ Detailed Syllabus:
       + Generative Adversarial Networks [ref1](https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/), [ref2](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0), [ref3](https://medium.com/@mattiaspinelli/simple-generative-adversarial-network-gans-with-keras-1fe578e44a87)  
       + Neural Network concepts
         + Weight Initialization [ref1](https://towardsdatascience.com/deep-learning-best-practices-1-weight-initialization-14e5c0295b94), [ref2](https://towardsdatascience.com/random-initialization-for-neural-networks-a-thing-of-the-past-bfcdd806bf9e)
-        + [Weight Averaging](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
-        + [Hyperparameter Tuning](https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c)
+        + Weight Averaging [ref1](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
+        + Hyperparameter Tuning [ref1](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/), [ref2](https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c)  
         + Gradient Descent [ref1](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3), [video](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-        + [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+        + Backpropagation [ref1](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
         + [Neural Network Visualization](https://playground.tensorflow.org/)
 
