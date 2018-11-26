@@ -180,9 +180,9 @@ Detailed Syllabus:
     + [Spark](https://towardsdatascience.com/deploy-a-python-model-more-efficiently-over-spark-497fc03e0a8d)
     + [Dask](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b)
   + Analytical Pipelines
-    + [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
-    + [Luigi](https://github.com/spotify/luigi)
-    + [Airflow](https://airflow.apache.org/)
+    + Scikit-Learn Pipelines [ref1](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)  
+    + Luigi [ref1](https://github.com/spotify/luigi)  
+    + Airflow [ref1](https://airflow.apache.org/), [ref2](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)  
   + Other Tools   
     + [NetworkX](https://networkx.github.io/)
     + [ETE Toolkit](http://etetoolkit.org/)
