@@ -20,7 +20,7 @@ Detailed Syllabus:
 + Related Courses [cs109](https://github.com/cs109/a-2017), [cs229](http://cs229.stanford.edu/), [ML Andrew Ng](https://www.coursera.org/learn/machine-learning)
 + Data Science Concepts [ref1](https://towardsdatascience.com/the-what-where-and-how-of-data-science-6dda1af98671), [ref2](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [ref3](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec), [ref4](https://medium.com/trainingcenter/data-science-um-panorama-geral-87edbbd35885), [book1](http://www.datascienceassn.org/sites/default/files/Foundations%20of%20Data%20Science%20-%20Textbook.pdf), [book2](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book3](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
   + Data Scientists [ref1](https://towardsdatascience.com/data-scientist-from-good-to-great-5e6aed447b69), [re2](https://towardsdatascience.com/data-scientist-from-good-to-great-part-2-614f1ed2aaeb), [ref3](https://towardsdatascience.com/whats-the-secret-sauce-to-transforming-into-a-unicorn-in-data-science-94082b01c39d), [learning path](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+Python-Final-Jan-Feb+Python-Session-1/about)
-  + Statistics [book](http://greenteapress.com/thinkstats2/html/index.html), [ref1](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745), [ref2](https://towardsdatascience.com/inferential-statistics-basics-294512909a33)  
+  + Statistics [book1](http://www-bcf.usc.edu/~gareth/ISL/), [book2](http://greenteapress.com/thinkstats2/html/index.html), [ref1](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745), [ref2](https://towardsdatascience.com/inferential-statistics-basics-294512909a33), [ref3](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)  
   + AI [ref1](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
   + Machine Learning [ref1](https://medium.com/@lizzie_turner/lets-talk-about-machine-learning-ddca914e9dd1), [ref2](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
   + Business Intelligence [ref1](https://en.wikipedia.org/wiki/Business_intelligence)
@@ -72,7 +72,7 @@ Detailed Syllabus:
         + Ridge Regression [ref1](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
         + Lasso Regression [ref1](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/), [package](http://scikit-learn.org/stable/modules/linear_model.html#lasso)
         + ElasticNet Regression [ref1](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)  
-      + Logistic Regression (Categorical) [ref1](https://en.wikipedia.org/wiki/Logistic_regression), [ref2](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8),  [ref3](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r)
+      + Logistic Regression (Categorical) [ref1](https://en.wikipedia.org/wiki/Logistic_regression), [ref2](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8),  [ref3](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r), [ref4](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)  
 
       + Support Vector Machines [ref1](https://towardsdatascience.com/i-support-vector-machines-and-so-should-you-7af122b6748), [ref2](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47), [ref3](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/), [paper](http://users.ecs.soton.ac.uk/srg/publications/pdf/SVM.pdf), [video](https://www.youtube.com/watch?v=_PwhiWxHK8o)  
         + SVR [ref1](http://kernelsvm.tripod.com/), [ref2](https://alex.smola.org/papers/2003/SmoSch03b.pdf)    
@@ -127,7 +127,7 @@ Detailed Syllabus:
 
 
 + Data Science Tasks
-  + Time Series Analysis [ref1](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/), [ref2](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/), [ref3](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016), [video](https://www.youtube.com/watch?v=e8Yw4alG16Q)
+  + Time Series Analysis [ref1](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/), [ref2](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/), [ref3](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016), [ref4](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/), [video](https://www.youtube.com/watch?v=e8Yw4alG16Q)  
   + NLP and Text Mining [ref1](https://towardsdatascience.com/lessons-learned-from-applying-deep-learning-for-nlp-without-big-data-d470db4f27bf)   
   + Information Retrieval
   + Graphs and Network Analysis
@@ -186,14 +186,15 @@ Detailed Syllabus:
     + Luigi [ref1](https://github.com/spotify/luigi)  
     + Airflow [ref1](https://airflow.apache.org/), [ref2](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)  
   + Other Tools   
-    + [NetworkX](https://networkx.github.io/)
-    + [ETE Toolkit](http://etetoolkit.org/)
+    + [NetworkX](https://networkx.github.io/)  
+    + [ETE Toolkit](http://etetoolkit.org/)  
     + [ODO](https://odo.readthedocs.io/en/latest/)
   + Relational databases and SQL
   + NoSQL Databases
     + [Elastic Search](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
     + Graph Databases  
       + [Graph Theory](https://towardsdatascience.com/graph-theory-history-overview-f89a3efc0478)  
+  + Machine Learning Datasets [ref1](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)  
     
     
 We are using https://git-lfs.github.com because the /datasets files can be large. [Install](https://github.com/git-lfs/git-lfs/wiki/Installation) it before the git clone.  
