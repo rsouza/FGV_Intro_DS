@@ -134,6 +134,8 @@ Detailed Syllabus:
   + Sentiment Analysis [ref1](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90), [ref2](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913), [ref3](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7), [ref4](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5), [ref5](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-5-50b4e87d9bdd), [ref6](https://towardsdatascience.com/basic-data-cleaning-engineering-session-twitter-sentiment-data-95e5bd2869ec), [ref7](https://towardsdatascience.com/a-beginners-guide-on-sentiment-analysis-with-rnn-9e100627c02e)
   + Recommender Systems [ref1](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/), [ref2](https://www.datacamp.com/community/tutorials/recommender-systems-python), [ref3](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
 
++ Preparing the Environment
+  + [Linux, Python, Virtualenv](https://towardsdatascience.com/how-to-setup-a-python-environment-for-machine-learning-354d6c29a264)  
 + Data Science and Visualization Tools
   + Versioning Tools
     + [Git](https://git-scm.com/book/en/v2)
