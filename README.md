@@ -59,8 +59,9 @@ Detailed Syllabus:
       + K-Means [ref1](https://towardsdatascience.com/clustering-using-k-means-algorithm-81da00f156f6)  
       + Hierarchical Clustering [ref1](https://towardsdatascience.com/clustering-unsupervised-learning-788b215b074b)  
       + K-Modes [ref1](https://github.com/nicodv/kmodes)  
-    + Topic Modeling [ref1](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05), [ref2](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730), [ref3](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/), [ref4](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
-    + Unsupervised Deep Learning [ref1](https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/)
+    + Topic Modeling [ref1](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730), [ref2](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/), [ref3](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
+      + LDA [ref1](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158), [ref2](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)  
+    + Unsupervised Deep Learning [ref1](https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/)  
 
   + Supervised
     + Regression [ref1](https://www.analyticsvidhya.com/blog/2015/10/regression-python-beginners/), [ref2](https://towardsdatascience.com/my-journey-into-machine-learning-class-5-regression-cb6f04006b29), [ref3](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e), [ref4](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/), [ref5](https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef)  
