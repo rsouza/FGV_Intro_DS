@@ -161,7 +161,8 @@ Detailed Syllabus:
     + [Scikit-Learn](http://scikit-learn.org/stable/)
         + [Inbalanced Learn](http://contrib.scikit-learn.org/imbalanced-learn/stable/#)
         + [ForestCI](https://github.com/scikit-learn-contrib/forest-confidence-interval)
-    + Tensor Flow [ref1](https://www.tensorflow.org/),  [ref2](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)
+    + Tensor Flow [ref1](https://www.tensorflow.org/),  [ref2](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)  
+        + TF.Text [ref1](https://medium.com/tensorflow/introducing-tf-text-438c8552bd5e)  
     + Keras [ref1](https://keras.io/), [ref2](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
     + [Gensim](https://radimrehurek.com/gensim/)  
     + [Orange](https://orange.biolab.si/)
@@ -182,8 +183,9 @@ Detailed Syllabus:
     + [Folium](http://python-visualization.github.io/folium/)
       + [Leaflet](http://leafletjs.com/)
     + Neural Networks  visualization
-      + [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard)
-      + [Tensor Flow Playground](https://playground.tensorflow.org/)
+      + [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard)  
+      + [Tensor Flow Playground](https://playground.tensorflow.org/)  
+      + [Tensor Flor Projector](https://projector.tensorflow.org/)   
       + [Deep Replay](https://github.com/dvgodoy/deepreplay)
   + Big Data and Distributed computing
     + Map Reduce
