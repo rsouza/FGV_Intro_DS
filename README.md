@@ -185,7 +185,7 @@ Detailed Syllabus:
     + Neural Networks  visualization
       + [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard)  
       + [Tensor Flow Playground](https://playground.tensorflow.org/)  
-      + [Tensor Flor Projector](https://projector.tensorflow.org/)   
+      + [Tensor Flow Projector](https://projector.tensorflow.org/)   
       + [Deep Replay](https://github.com/dvgodoy/deepreplay)
   + Big Data and Distributed computing
     + Map Reduce
