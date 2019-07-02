@@ -118,6 +118,7 @@ Detailed Syllabus:
         + Doc2vec [ref1](https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)  
         + Char2vec [ref1](https://hackernoon.com/chars2vec-character-based-language-model-for-handling-real-world-texts-with-spelling-errors-and-a3e4053a147d)  
         + Glove [ref1](https://towardsdatascience.com/light-on-math-ml-intuitive-guide-to-understanding-glove-embeddings-b13b4f19c010)  
+        + XLNet [ref1](https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335)  
       + LSTMs and GRUs [ref1](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)   
       + Reinforcement Learning [ref1](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287), [ref2](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9), [ref3](https://towardsdatascience.com/reinforcement-learning-demystified-36c39c11ec14), [ref4](https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690), [ref5](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8), [ref6](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2), [programming resource](https://gym.openai.com/docs/)  
       + Transfer Learning [ref1](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a), [ref2](https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751), [code](https://towardsdatascience.com/style-up-your-photos-with-a-touch-of-deep-learning-magic-60a003c676f9)  
@@ -127,9 +128,8 @@ Detailed Syllabus:
         + Weight Averaging [ref1](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)
         + Hyperparameter Tuning [ref1](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/), [ref2](https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c)  
         + Gradient Descent [ref1](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3), [video](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-        + Backpropagation [ref1](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-
-        + [Neural Network Visualization](https://playground.tensorflow.org/)
+        + Backpropagation [ref1](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=0s&index=3&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
+        + Neural Network Visualization [TF playground](https://playground.tensorflow.org/), [TF Tensorboard](https://github.com/tensorflow/tensorboard), [TF Embedding Projector](https://projector.tensorflow.org/)
 
 
 + Data Science Tasks
