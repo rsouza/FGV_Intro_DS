@@ -203,7 +203,7 @@ Detailed Syllabus:
     + [NetworkX](https://networkx.github.io/)  
     + [ETE Toolkit](http://etetoolkit.org/)  
     + [ODO](https://odo.readthedocs.io/en/latest/)
-    + Docker [ref1](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)  
+    + Docker [ref1](https://docs.docker.com/get-started/), [ref2](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)  
   + Relational databases and SQL
   + NoSQL Databases
     + [Elastic Search](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
