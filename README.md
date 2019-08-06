@@ -107,7 +107,7 @@ Detailed Syllabus:
         + [Auto Keras](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
 
     + Neural Networks and Deep Learning [ref1](http://neuralnetworksanddeeplearning.com/chap1.html), [ref2](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba), [ref3](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0),  [ref4](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/), [ref5](https://www.analyticsvidhya.com/blog/2018/05/deep-learning-faq/), [ref6](https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html), [ref7](https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e), [ref8](https://towardsdatascience.com/understanding-neural-networks-19020b758230), [book](http://www.deeplearningbook.org/contents/TOC.html), [video](https://www.youtube.com/watch?v=aircAruvnKk&t=0s&index=1&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [meme](https://indico.io/blog/wp-content/uploads/2016/02/inception_meme.jpg)   
-      + Convolutional Neural Networks [ref1](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1), [ref2](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-convolution-neural-networks-e3f054dd5daa), [ref3](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/), [ref4](https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9), [ref5](https://www.saama.com/blog/different-kinds-convolutional-filters/), [ref6](https://software.intel.com/en-us/articles/hands-on-ai-part-16-modern-deep-neural-network-architectures-for-image-classification), [ref6](https://towardsdatascience.com/convolutional-neural-networks-the-biologically-inspired-model-f2d23a301f71)  
+      + Convolutional Neural Networks [ref1](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1), [ref2](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-convolution-neural-networks-e3f054dd5daa), [ref3](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/), [ref4](https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9), [ref5](https://www.saama.com/blog/different-kinds-convolutional-filters/), [ref6](https://software.intel.com/en-us/articles/hands-on-ai-part-16-modern-deep-neural-network-architectures-for-image-classification), [ref6](https://towardsdatascience.com/convolutional-neural-networks-the-biologically-inspired-model-f2d23a301f71), [ref7](https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d)  
         + CNNs for NLP [ref1](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), [ref2](https://towardsdatascience.com/deep-learning-for-nlp-anns-rnns-and-lstms-explained-95866c1db2e4) 
         + CNNs for object detection [ref1](https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad)  
         + CNNs for Time Series [ref1](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)    
@@ -167,6 +167,7 @@ Detailed Syllabus:
     + Tensor Flow [ref1](https://www.tensorflow.org/),  [ref2](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)  
         + TF.Text [ref1](https://medium.com/tensorflow/introducing-tf-text-438c8552bd5e)  
     + Keras [ref1](https://keras.io/), [ref2](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
+    + PyTorch [ref1](https://pytorch.org/), [Comparison Tensorflow vs PyTorch](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)  
     + [Gensim](https://radimrehurek.com/gensim/)  
     + [Orange](https://orange.biolab.si/)
   + NLP Tools
@@ -202,6 +203,7 @@ Detailed Syllabus:
     + [NetworkX](https://networkx.github.io/)  
     + [ETE Toolkit](http://etetoolkit.org/)  
     + [ODO](https://odo.readthedocs.io/en/latest/)
+    + Docker [ref1](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)  
   + Relational databases and SQL
   + NoSQL Databases
     + [Elastic Search](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
