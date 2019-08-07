@@ -34,7 +34,7 @@ Detailed Syllabus:
   + Data Visualization [ref1](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f), [ref2](https://www.linuxlinks.com/best-free-python-visualization-packages/)  
   
 + Model Selection [ref1](https://towardsdatascience.com/data-science-simplified-part-6-model-selection-methods-2511cbdf7cb0)
-  + Feature Engineering [ref1](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/), [book](http://www.feat.engineering/index.html)  
+  + Feature Engineering [ref1](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/), [ref2](https://towardsdatascience.com/using-machine-learning-algorithms-d47711ff4732), [book](http://www.feat.engineering/index.html)  
     + Automated Feature Engineering  
       [featuretools](https://www.featuretools.com/)
   + Feature Selection [ref1](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2), [ref2](http://scikit-learn.org/stable/modules/feature_selection.html), [ref3](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)  
