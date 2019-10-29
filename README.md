@@ -176,7 +176,7 @@ Detailed Syllabus:
     + [NLTK](https://www.nltk.org/)
     + [Spacy](https://spacy.io/)
     + [TextBlob](http://textblob.readthedocs.io/en/dev/)  
-  + Visualization Tools
+  + Visualization Tools [ref1](https://medium.com/@alark/we-need-more-interactive-data-visualization-tools-for-the-web-in-python-ad80ec3f440e)  
     + [Matplotlib](https://matplotlib.org/)
     + [Seaborn](https://seaborn.pydata.org/)
     + Bokeh [ref1](https://bokeh.pydata.org/en/latest/), [example](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
