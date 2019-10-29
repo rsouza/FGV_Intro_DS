@@ -1,2 +1,3 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+datasets/Miscellaneous/geospatial-learn-course-data.zip filter=lfs diff=lfs merge=lfs -text
