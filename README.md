@@ -171,6 +171,7 @@ Detailed Syllabus:
         + [ForestCI](https://github.com/scikit-learn-contrib/forest-confidence-interval)
     + Tensor Flow [ref1](https://www.tensorflow.org/),  [ref2](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)  
         + TF.Text [ref1](https://medium.com/tensorflow/introducing-tf-text-438c8552bd5e)  
+        + TF Datasets [ref1](https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3)  
     + Keras [ref1](https://keras.io/), [ref2](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
     + PyTorch [ref1](https://pytorch.org/), [Comparison Tensorflow vs PyTorch](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)  
     + [Gensim](https://radimrehurek.com/gensim/)  
