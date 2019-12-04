@@ -208,8 +208,8 @@ Detailed Syllabus:
     + Airflow [ref1](https://airflow.apache.org/), [ref2](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)  
   + Other Tools   
     + [NetworkX](https://networkx.github.io/)  
-    + [ETE Toolkit](http://etetoolkit.org/)  
-    + [ODO](https://odo.readthedocs.io/en/latest/)
+    + ETE Toolkit [ref1](http://etetoolkit.org/)  
+    + ODO [ref1](https://odo.readthedocs.io/en/latest/)  
     + Docker [ref1](https://docs.docker.com/get-started/), [ref2](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)  
   + Relational databases and SQL
   + NoSQL Databases
