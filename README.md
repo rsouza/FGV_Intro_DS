@@ -131,6 +131,7 @@ Detailed Syllabus:
           + Doc2vec [ref1](https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)  
           + Char2vec [ref1](https://hackernoon.com/chars2vec-character-based-language-model-for-handling-real-world-texts-with-spelling-errors-and-a3e4053a147d)  
           + Word2vec for Phrases [ref1](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf?)  
+          + Beyond Word Embeddings [ref1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f?), [ref2](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec)  
           + Glove [ref1](https://towardsdatascience.com/light-on-math-ml-intuitive-guide-to-understanding-glove-embeddings-b13b4f19c010)  
         + BERT [ref1](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03), [ref2](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04), [ref3](https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/), [ref4](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270), [ref5](https://medium.com/sciforce/googles-bert-changing-the-nlp-landscape-5f4a7bf65cc5)  
         + XLNet [ref1](https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335)   
