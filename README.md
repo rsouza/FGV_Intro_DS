@@ -36,18 +36,17 @@ Detailed Syllabus:
   
 + Model Selection [ref1](https://towardsdatascience.com/data-science-simplified-part-6-model-selection-methods-2511cbdf7cb0)
   + Feature Engineering [ref1](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/), [ref2](https://towardsdatascience.com/using-machine-learning-algorithms-d47711ff4732), [book](http://www.feat.engineering/index.html)  
-    + Automated Feature Engineering  
-      [featuretools](https://www.featuretools.com/)
+    + Automated Feature Engineering  [featuretools](https://www.featuretools.com/)
   + Feature Selection [ref1](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2), [ref2](http://scikit-learn.org/stable/modules/feature_selection.html), [ref3](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)  
-    + Numeric Data [ref1](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
-    + Discrete/Categorical Data [ref1](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
-    + Textual Data [ref1](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41), [ref2](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
-  + Hiperparameter Search [ref1](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
+    + Numeric Data [ref1](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)  
+    + Discrete/Categorical Data [ref1](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)  
+    + Textual Data [ref1](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41), [ref2](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)  
+  + Hiperparameter Search [ref1](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)  
   + Cross Validation [ref1](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/), [video1](https://www.coursera.org/learn/deep-neural-network/lecture/cxG1s/train-dev-test-sets)
   + Oversampling and Undersampling [ref1](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume16/chawla02a-html/)
-  + Regularization [ref1](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a), [ref2](https://www.analyticsvidhya.com/blog/2015/02/avoid-over-fitting-regularization/)https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
-  + Bias and Variance [ref1](https://towardsdatascience.com/balancing-bias-and-variance-to-control-errors-in-machine-learning-16ced95724db)
-  + Overfitting and Underfitting [ref1](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)
+  + Regularization [ref1](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a), [ref2](https://www.analyticsvidhya.com/blog/2015/02/avoid-over-fitting-regularization/)  
+  + Bias and Variance [ref1](https://towardsdatascience.com/balancing-bias-and-variance-to-control-errors-in-machine-learning-16ced95724db)  
+  + Overfitting and Underfitting [ref1](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)  
   + Evaluation Metrics [ref1](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4), [ref2](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428), [ref3](https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/)  
 
 + Machine Learning Algorithms [ref1](http://cdn.intechopen.com/pdfs-wm/10694.pdf), [ref2](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/), [ref3](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11), [ref4](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/), [ref5](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/), [ref6](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
