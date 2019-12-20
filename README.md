@@ -213,6 +213,7 @@ Detailed Syllabus:
   + Dashboards
     + Flask [ref1](https://flask.palletsprojects.com/en/1.1.x/), [ref2](https://towardsdatascience.com/deploy-your-machine-learning-model-as-a-rest-api-4fe96bf8ddcc?)  
     + Streamlit [ref2](https://streamlit.io/), [ref2](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582)  
+    + Panel [ref1](https://github.com/holoviz/panel), [ref2](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)  
   + Other Tools   
     + [NetworkX](https://networkx.github.io/)  
     + ETE Toolkit [ref1](http://etetoolkit.org/)  
