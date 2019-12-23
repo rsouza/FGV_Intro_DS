@@ -196,33 +196,37 @@ Detailed Syllabus:
     + [HoloViews](http://holoviews.org/)
     + [Folium](http://python-visualization.github.io/folium/)
       + [Leaflet](http://leafletjs.com/)
-    + Neural Networks  visualization  
-      + TensorBoard [ref1](https://www.tensorflow.org/guide/summaries_and_tensorboard), [ref2](https://github.com/tensorflow/tensorboard)  
-      + Tensor Flow Playground [ref1](https://playground.tensorflow.org/)  
-      + Tensor Flow Projector [ref1](https://projector.tensorflow.org/)   
-      + Deep Replay [ref1](https://github.com/dvgodoy/deepreplay)  
-  + Big Data and Distributed computing
+      
+  + Dashboards
+    + Flask [ref1](https://flask.palletsprojects.com/en/1.1.x/), [ref2](https://towardsdatascience.com/deploy-your-machine-learning-model-as-a-rest-api-4fe96bf8ddcc?)  
+    + Streamlit [ref2](https://streamlit.io/), [ref2](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582), [ref3](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)  
+    + Panel [ref1](https://github.com/holoviz/panel), [ref2](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)  
+      
+  + Neural Networks  visualization  
+    + TensorBoard [ref1](https://www.tensorflow.org/guide/summaries_and_tensorboard), [ref2](https://github.com/tensorflow/tensorboard)  
+    + Tensor Flow Playground [ref1](https://playground.tensorflow.org/)  
+    + Tensor Flow Projector [ref1](https://projector.tensorflow.org/)   
+    + Deep Replay [ref1](https://github.com/dvgodoy/deepreplay)  
+
+  + Relational databases and SQL
+  
+  + NoSQL Databases
+    + [Elastic Search](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
+  + Graph Theory [ref1](https://towardsdatascience.com/graph-theory-history-overview-f89a3efc0478), [NetworkX](https://networkx.github.io/)  
+  
+  + Data Wrangling and Distributed computing
     + Map Reduce
-    + [Spark](https://towardsdatascience.com/deploy-a-python-model-more-efficiently-over-spark-497fc03e0a8d)
-    + [Dask](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b)
+    + Spark [ref1](https://towardsdatascience.com/deploy-a-python-model-more-efficiently-over-spark-497fc03e0a8d)
+    + Dask [ref1](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b)
+    + ETE Toolkit [ref1](http://etetoolkit.org/)  
+    + ODO [ref1](https://odo.readthedocs.io/en/latest/)  
+    + Docker [ref1](https://docs.docker.com/get-started/), [ref2](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)  
+  
   + Analytical Pipelines
     + Scikit-Learn Pipelines [ref1](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)  
     + Luigi [ref1](https://github.com/spotify/luigi)  
     + Airflow [ref1](https://airflow.apache.org/), [ref2](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)  
-  + Dashboards
-    + Flask [ref1](https://flask.palletsprojects.com/en/1.1.x/), [ref2](https://towardsdatascience.com/deploy-your-machine-learning-model-as-a-rest-api-4fe96bf8ddcc?)  
-    + Streamlit [ref2](https://streamlit.io/), [ref2](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582)  
-    + Panel [ref1](https://github.com/holoviz/panel), [ref2](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)  
-  + Other Tools   
-    + [NetworkX](https://networkx.github.io/)  
-    + ETE Toolkit [ref1](http://etetoolkit.org/)  
-    + ODO [ref1](https://odo.readthedocs.io/en/latest/)  
-    + Docker [ref1](https://docs.docker.com/get-started/), [ref2](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)  
-  + Relational databases and SQL
-  + NoSQL Databases
-    + [Elastic Search](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
-    + Graph Databases  
-      + [Graph Theory](https://towardsdatascience.com/graph-theory-history-overview-f89a3efc0478)  
+
   + Machine Learning Datasets [ref1](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)  
     
     
