@@ -183,8 +183,8 @@ Detailed Syllabus:
     + [Gensim](https://radimrehurek.com/gensim/)  
     + [Orange](https://orange.biolab.si/)
   + NLP Tools
-    + [NLTK](https://www.nltk.org/)
-    + [Spacy](https://spacy.io/)
+    + NLTK [ref1](https://www.nltk.org/), [ref2](https://heartbeat.fritz.ai/nlp-chronicles-intro-to-nlp-with-nltk-b2c369fbb9a7)  
+    + Spacy [ref1](https://spacy.io/), [ref2](https://towardsdatascience.com/so-whats-spacy-ad65aa1949e0?), [ref3](https://realpython.com/natural-language-processing-spacy-python/), [ref4](https://medium.com/eliiza-ai/a-tour-of-awesome-features-of-spacy-part-1-2-58b32425954f?)  
     + [TextBlob](http://textblob.readthedocs.io/en/dev/)  
   + Visualization Tools [ref1](https://medium.com/@alark/we-need-more-interactive-data-visualization-tools-for-the-web-in-python-ad80ec3f440e)  
     + [Matplotlib](https://matplotlib.org/)
