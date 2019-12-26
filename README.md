@@ -159,10 +159,10 @@ Detailed Syllabus:
   + [Linux, Python, Virtualenv](https://towardsdatascience.com/how-to-setup-a-python-environment-for-machine-learning-354d6c29a264)  
   
   + Versioning Tools
-    + [Git](https://git-scm.com/book/en/v2)
-    + [Github](https://guides.github.com/)
-    + [GIT Large File Versioning](https://git-lfs.github.com/)
-    + [Gitlab](https://about.gitlab.com/)
+    + Git [ref1](https://git-scm.com/book/en/v2)  
+    + Github [ref1](https://guides.github.com/), , [ref2](https://towardsdatascience.com/introduction-to-github-for-data-scientists-2cf8b9b25fba)  
+    + GIT Large File Versioning [ref1](https://git-lfs.github.com/)  
+    + Gitlab [ref1](https://about.gitlab.com/)  
   + Exploratory Data Analysis Tools
     + Jupyter [ref1](http://jupyter.org/), [ref2](https://github.com/jupyterlab/jupyterlab), [ref3](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/), [ref4](https://towardsdatascience.com/data-science-for-startups-r-python-2ca2cd149c5c), [ref5](https://towardsdatascience.com/a-very-simple-demo-of-interactive-controls-on-jupyter-notebook-4429cf46aabd), [ref6](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b), [ref7](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228?)  
     + Numpy [ref1](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [ref2](https://www.datacamp.com/community/tutorials/python-numpy-tutorial), [ref3](https://towardsdatascience.com/reshaping-numpy-arrays-in-python-a-step-by-step-pictorial-tutorial-aed5f471cf0b)  
