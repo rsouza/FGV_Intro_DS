@@ -199,9 +199,10 @@ Detailed Syllabus:
     + [HoloViews](http://holoviews.org/)
     + [Folium](http://python-visualization.github.io/folium/)
       + [Leaflet](http://leafletjs.com/)
+    + Autoviz [ref1](https://github.com/AutoViML/AutoViz), [ref2](https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad)  
       
   + Dashboards
-    + Flask [ref1](https://flask.palletsprojects.com/en/1.1.x/), [ref2](https://towardsdatascience.com/deploy-your-machine-learning-model-as-a-rest-api-4fe96bf8ddcc?)  
+    + Flask [ref1](https://flask.palletsprojects.com/en/1.1.x/), [ref2](https://towardsdatascience.com/deploy-your-machine-learning-model-as-a-rest-api-4fe96bf8ddcc?), [ref3](https://medium.com/analytics-vidhya/deploying-a-machine-learning-model-on-web-using-flask-and-python-54b86c44e14a?)  
     + Streamlit [ref2](https://streamlit.io/), [ref2](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582), [ref3](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)  
     + Panel [ref1](https://github.com/holoviz/panel), [ref2](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)  
       
