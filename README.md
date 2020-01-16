@@ -141,6 +141,7 @@ Detailed Syllabus:
 
 + Data Science Tasks
   + NLP tasks [ref1](https://towardsdatascience.com/lessons-learned-from-applying-deep-learning-for-nlp-without-big-data-d470db4f27bf), [ref2](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908), [ref3](https://medium.com/temasek-root-access/nlp-in-a-hurry-a59569c905b3?), [ref4](https://towardsdatascience.com/text-preprocessing-for-data-scientist-3d2419c8199d)  
+      + Vector Representation [ref1](https://towardsdatascience.com/art-of-vector-representation-of-words-5e85c59fee5)
       + OCR [ref1](https://stackabuse.com/pytesseract-simple-python-optical-character-recognition/), [ref2](https://towardsdatascience.com/read-text-from-image-with-one-line-of-python-code-c22ede074cac)  
       + Topic Modeling [ref1](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05?), [ref2](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730), [ref3](https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/), [ref4](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24), [ref5](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21), [ref5](https://medium.com/@jmcneilkeller/building-a-topic-modeling-pipeline-with-spacy-and-gensim-c5dc03ffc619)  
         + LDA [ref1](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158)  
@@ -206,7 +207,7 @@ Detailed Syllabus:
       
   + Dashboards
     + Flask [ref1](https://flask.palletsprojects.com/en/1.1.x/), [ref2](https://towardsdatascience.com/deploy-your-machine-learning-model-as-a-rest-api-4fe96bf8ddcc?), [ref3](https://medium.com/analytics-vidhya/deploying-a-machine-learning-model-on-web-using-flask-and-python-54b86c44e14a?), [ref4](https://towardsdatascience.com/web-app-development-for-data-scientists-48e445e54d7b)  
-    + Streamlit [ref2](https://streamlit.io/), [ref2](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582), [ref3](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)  
+    + Streamlit [ref2](https://streamlit.io/), [ref2](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582), [ref3](https://towardsdatascience.com/streamlit-deploy-a-machine-learning-model-without-learning-any-web-framework-e8fb86079c61), [ref4](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)  
     + Panel [ref1](https://github.com/holoviz/panel), [ref2](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)  
       
   + Neural Networks  visualization  
