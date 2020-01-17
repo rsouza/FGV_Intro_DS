@@ -205,10 +205,11 @@ Detailed Syllabus:
       + [Leaflet](http://leafletjs.com/)
     + Autoviz [ref1](https://github.com/AutoViML/AutoViz), [ref2](https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad)  
       
-  + Dashboards
+  + Dashboards and UIs
     + Flask [ref1](https://flask.palletsprojects.com/en/1.1.x/), [ref2](https://towardsdatascience.com/deploy-your-machine-learning-model-as-a-rest-api-4fe96bf8ddcc?), [ref3](https://medium.com/analytics-vidhya/deploying-a-machine-learning-model-on-web-using-flask-and-python-54b86c44e14a?), [ref4](https://towardsdatascience.com/web-app-development-for-data-scientists-48e445e54d7b)  
     + Streamlit [ref2](https://streamlit.io/), [ref2](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582), [ref3](https://towardsdatascience.com/streamlit-deploy-a-machine-learning-model-without-learning-any-web-framework-e8fb86079c61), [ref4](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)  
-    + Panel [ref1](https://github.com/holoviz/panel), [ref2](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)  
+    + Panel [ref1](https://github.com/holoviz/panel), [ref2](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)
+    + Python GUI [ref1](https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)  
       
   + Neural Networks  visualization  
     + TensorBoard [ref1](https://www.tensorflow.org/guide/summaries_and_tensorboard), [ref2](https://github.com/tensorflow/tensorboard)  
