@@ -173,7 +173,7 @@ Detailed Syllabus:
     + GIT Large File Versioning [ref1](https://git-lfs.github.com/)  
     + Gitlab [ref1](https://about.gitlab.com/)  
   + Exploratory Data Analysis Tools
-    + Jupyter [ref1](http://jupyter.org/), [ref2](https://github.com/jupyterlab/jupyterlab), [ref3](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/), [ref4](https://towardsdatascience.com/data-science-for-startups-r-python-2ca2cd149c5c), [ref5](https://towardsdatascience.com/a-very-simple-demo-of-interactive-controls-on-jupyter-notebook-4429cf46aabd), [ref6](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b), [ref7](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228?)  
+    + Jupyter [ref1](http://jupyter.org/), [ref2](https://github.com/jupyterlab/jupyterlab), [ref3](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/), [ref4](https://towardsdatascience.com/data-science-for-startups-r-python-2ca2cd149c5c), [ref5](https://towardsdatascience.com/a-very-simple-demo-of-interactive-controls-on-jupyter-notebook-4429cf46aabd), [ref6](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b), [ref7](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228?), [ref8](https://github.com/xtreamsrl/jupytemplate)  
     + Numpy [ref1](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [ref2](https://www.datacamp.com/community/tutorials/python-numpy-tutorial), [ref3](https://towardsdatascience.com/reshaping-numpy-arrays-in-python-a-step-by-step-pictorial-tutorial-aed5f471cf0b)  
     + Pandas [ref1](http://proquest.safaribooksonline.com/9781449323592), [ref2](http://pandas.pydata.org/pandas-docs/stable/), [ref3](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)  
       + [Pandas Machine Learning](http://pandas-ml.readthedocs.io/en/stable/)
@@ -189,7 +189,7 @@ Detailed Syllabus:
         + TF.Text [ref1](https://medium.com/tensorflow/introducing-tf-text-438c8552bd5e)  
         + TF Datasets [ref1](https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3)  
     + Keras [ref1](https://keras.io/), [ref2](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html), [ref3](https://towardsdatascience.com/4-awesome-things-you-can-do-with-keras-and-the-code-you-need-to-make-it-happen-858f022eec85)  
-    + PyTorch [ref1](https://pytorch.org/), [Comparison Tensorflow vs PyTorch](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)  
+    + PyTorch [ref1](https://pytorch.org/), [Comparison Tensorflow vs PyTorch](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b), [Comparison Tensorflow vs PyTorch 2](https://towardsdatascience.com/pytorch-vs-tensorflow-in-code-ada936fd5406)  
     + [Gensim](https://radimrehurek.com/gensim/)  
     + [Orange](https://orange.biolab.si/)
   + NLP Tools
@@ -224,9 +224,11 @@ Detailed Syllabus:
 
   + Relational databases and SQL
   
-  + NoSQL Databases
-    + [Elastic Search](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
-  + Graph Theory [ref1](https://towardsdatascience.com/graph-theory-history-overview-f89a3efc0478), [NetworkX](https://networkx.github.io/)  
+  + NoSQL / Graph Databases
+    + Elastic Search [ref1](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
+    + SPARQL [ref1](https://towardsdatascience.com/how-to-extract-knowledge-from-wikipedia-data-science-style-35f50f095d1a)  
+ 
+   + Graph Theory [ref1](https://towardsdatascience.com/graph-theory-history-overview-f89a3efc0478), [NetworkX](https://networkx.github.io/)  
   
   + Data Wrangling and Distributed computing
     + Map Reduce
