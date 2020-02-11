@@ -180,9 +180,9 @@ Detailed Syllabus:
       + [SKLearn Pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
       + [Geopandas](http://geopandas.org/)
       + [Framequery](https://pypi.org/project/framequery/)
-    + [Statsmodels](http://www.statsmodels.org/stable/index.html)
+    + Statsmodels [ref1](http://www.statsmodels.org/stable/index.html)
   + Machine Learning Tools
-    + [Scikit-Learn](http://scikit-learn.org/stable/)
+    + Scikit-Learn [ref1](http://scikit-learn.org/stable/), [ref2](https://www.analyticsvidhya.com/blog/2020/02/everything-you-should-know-scikit-learn/)  
         + [Inbalanced Learn](http://contrib.scikit-learn.org/imbalanced-learn/stable/#)
         + [ForestCI](https://github.com/scikit-learn-contrib/forest-confidence-interval)
     + Tensor Flow [ref1](https://www.tensorflow.org/),  [ref2](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)  
