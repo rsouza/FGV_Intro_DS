@@ -122,7 +122,7 @@ Detailed Syllabus:
         + CNNs for object detection [ref1](https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad)  
         + CNNs for Time Series [ref1](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)    
         + Capsule Networks [ref1](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)  
-      + RNNs (Sequence Models) [ref1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [ref2](https://towardsdatascience.com/understanding-rnn-and-lstm-f7cdf6dfc14e)  
+      + RNNs (Sequence Models) [ref1](https://towardsdatascience.com/recurrent-neural-networks-explained-ffb9f94c5e09), [ref2](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [ref3](https://towardsdatascience.com/understanding-rnn-and-lstm-f7cdf6dfc14e)  
         + Attention Models [ref1](https://towardsdatascience.com/breaking-bert-down-430461f60efb)  
         + LSTMs and GRUs [ref1](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21), [ref2](https://towardsdatascience.com/what-is-a-recurrent-nns-and-gated-recurrent-unit-grus-ea71d2a05a69), [ref3](https://towardsdatascience.com/forward-and-backpropagation-in-grus-derived-deep-learning-5764f374f3f5), [ref4](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be), [ref5](http://colah.github.io/posts/2015-08-Understanding-LSTMs/), [ref6](https://towardsdatascience.com/visualising-lstm-activations-in-keras-b50206da96ff)  
         + Word Embeedings [ref1](https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc), [ref2](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa), [ref3](https://towardsdatascience.com/what-the-heck-is-word-embedding-b30f67f01c81), [ref4](https://towardsdatascience.com/word-embeddings-for-nlp-5b72991e01d4)  
@@ -131,7 +131,7 @@ Detailed Syllabus:
           + Char2vec [ref1](https://hackernoon.com/chars2vec-character-based-language-model-for-handling-real-world-texts-with-spelling-errors-and-a3e4053a147d)  
           + Word2vec for Phrases [ref1](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf?)  
           + Beyond Word Embeddings [ref1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f?), [ref2](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec)  
-          + Glove [ref1](https://towardsdatascience.com/light-on-math-ml-intuitive-guide-to-understanding-glove-embeddings-b13b4f19c010), [ref2](https://towardsdatascience.com/nlp-101-negative-sampling-and-glove-936c88f3bc68)  
+          + Glove [ref1](https://medium.com/@ria.kulshrestha16/nlp-101-negative-sampling-and-glove-936c88f3bc68), [ref2](https://towardsdatascience.com/light-on-math-ml-intuitive-guide-to-understanding-glove-embeddings-b13b4f19c010), [ref3](https://towardsdatascience.com/nlp-101-negative-sampling-and-glove-936c88f3bc68)  
           + FastText [ref1](https://towardsdatascience.com/super-easy-way-to-get-sentence-embedding-using-fasttext-in-python-a70f34ac5b7c)  
         + Transformers [ref1](https://medium.com/saarthi-ai/transformers-attention-based-seq2seq-machine-translation-a28940aaa4fe)  
           + BERT [ref1](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03), [ref2](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04), [ref3](https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/), [ref4](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270), [ref5](https://medium.com/sciforce/googles-bert-changing-the-nlp-landscape-5f4a7bf65cc5), [ref6](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/), [ref7](https://medium.com/swlh/simplerepresentations-bert-roberta-xlm-xlnet-and-distilbert-features-for-any-nlp-task-468b5ceb6f0e?), [ref8](https://medium.com/swlh/bert-bidirectional-encoder-representations-from-transformers-c1ba3ef5e2f4), [ref9](https://medium.com/analytics-vidhya/3-simple-tricks-to-get-the-most-out-of-your-bert-based-text-similarity-system-5b0f2ffa035a)  
@@ -225,6 +225,7 @@ Detailed Syllabus:
     + Deep Replay [ref1](https://github.com/dvgodoy/deepreplay)  
 
   + Relational databases and SQL
+    + SQL & Python [ref1](https://medium.com/@lushuhan95/reproducing-sql-queries-in-python-codes-35d90f716b1a)
   
   + NoSQL / Graph Databases
     + Elastic Search [ref1](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
