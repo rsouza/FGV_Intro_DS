@@ -199,7 +199,8 @@ Detailed Syllabus:
   + NLP Tools
     + NLTK [ref1](https://www.nltk.org/), [ref2](https://heartbeat.fritz.ai/nlp-chronicles-intro-to-nlp-with-nltk-b2c369fbb9a7)  
     + Spacy [ref1](https://spacy.io/), [ref2](https://towardsdatascience.com/so-whats-spacy-ad65aa1949e0?), [ref3](https://realpython.com/natural-language-processing-spacy-python/), [ref4](https://medium.com/eliiza-ai/a-tour-of-awesome-features-of-spacy-part-1-2-58b32425954f), [ref5](https://towardsdatascience.com/spacy-basics-4b606a70f97b)  
-    + [TextBlob](http://textblob.readthedocs.io/en/dev/)  
+    + TextBlob [ref1](http://textblob.readthedocs.io/en/dev/), [ref6](https://www.analyticsvidhya.com/blog/2020/03/spacy-tutorial-learn-natural-language-processing/)  
+    + StanfordNLP Lib [ref1](https://medium.com/analytics-vidhya/introduction-to-stanfordnlp-an-nlp-library-for-53-languages-with-python-code-d7c3efdca118)  
   + Visualization Tools [ref1](https://medium.com/@alark/we-need-more-interactive-data-visualization-tools-for-the-web-in-python-ad80ec3f440e)  
     + Matplotlib [ref1](https://matplotlib.org/), [ref2](https://www.analyticsvidhya.com/blog/2020/02/beginner-guide-matplotlib-data-visualization-exploration-python/)  
     + Seaborn [ref1](https://seaborn.pydata.org/)
