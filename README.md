@@ -166,7 +166,7 @@ Detailed Syllabus:
   + Time Series Analysis [ref1](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/), [ref2](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/), [ref3](https://towardsdatascience.com/an-overview-of-time-series-forecasting-models-a2fa7a358fcb?), [ref4](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016), [ref5](https://www.analyticsvidhya.com/blog/2019/01/introduction-time-series-classification/), [ref6](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/), [video](https://www.youtube.com/watch?v=e8Yw4alG16Q)  
   + Recommender Systems [ref1](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/), [ref2](https://www.datacamp.com/community/tutorials/recommender-systems-python), [ref3](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/), [ref4](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada), [ref5](https://towardsdatascience.com/recommender-systems-using-deep-learning-in-pytorch-from-scratch-f661b8f391d7), [ref6](https://www.analyticsvidhya.com/blog/2019/07/how-to-build-recommendation-system-word2vec-python/), [ref7](https://towardsdatascience.com/mind-reading-algorithms-368bdf412eb2?)    
   + Music Classification [ref1](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)  
-  + Scrapying [ref1](https://towardsdatascience.com/ultimate-beginners-guide-to-scraping-and-cleaning-twitter-data-a64e4aaa9343)  
+  + WebScraping [ref1](https://towardsdatascience.com/ultimate-beginners-guide-to-scraping-and-cleaning-twitter-data-a64e4aaa9343), [ref2](https://towardsdatascience.com/how-to-track-coronavirus-with-python-a5320b778c8e)  
 
 + Preparing the Environment
   + [Linux, Python, Virtualenv](https://towardsdatascience.com/how-to-setup-a-python-environment-for-machine-learning-354d6c29a264)  
@@ -176,6 +176,7 @@ Detailed Syllabus:
     + Github [ref1](https://guides.github.com/), , [ref2](https://towardsdatascience.com/introduction-to-github-for-data-scientists-2cf8b9b25fba)  
     + GIT Large File Versioning [ref1](https://git-lfs.github.com/)  
     + Gitlab [ref1](https://about.gitlab.com/)  
+    
   + Exploratory Data Analysis Tools
     + Jupyter [ref1](http://jupyter.org/), [ref2](https://github.com/jupyterlab/jupyterlab), [ref3](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/), [ref4](https://towardsdatascience.com/data-science-for-startups-r-python-2ca2cd149c5c), [ref5](https://towardsdatascience.com/a-very-simple-demo-of-interactive-controls-on-jupyter-notebook-4429cf46aabd), [ref6](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b), [ref7](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228?), [ref8](https://github.com/xtreamsrl/jupytemplate)  
     + Numpy [ref1](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), [ref2](https://www.datacamp.com/community/tutorials/python-numpy-tutorial), [ref3](https://towardsdatascience.com/reshaping-numpy-arrays-in-python-a-step-by-step-pictorial-tutorial-aed5f471cf0b)  
@@ -195,7 +196,8 @@ Detailed Syllabus:
     + Keras [ref1](https://keras.io/), [ref2](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html), [ref3](https://towardsdatascience.com/4-awesome-things-you-can-do-with-keras-and-the-code-you-need-to-make-it-happen-858f022eec85)  
     + PyTorch [ref1](https://pytorch.org/), [Comparison Tensorflow vs PyTorch](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b), [Comparison Tensorflow vs PyTorch 2](https://towardsdatascience.com/pytorch-vs-tensorflow-in-code-ada936fd5406)  
     + [Gensim](https://radimrehurek.com/gensim/)  
-    + [Orange](https://orange.biolab.si/)
+    + [Orange](https://orange.biolab.si/)  
+    
   + NLP Tools
     + NLTK [ref1](https://www.nltk.org/), [ref2](https://heartbeat.fritz.ai/nlp-chronicles-intro-to-nlp-with-nltk-b2c369fbb9a7)  
     + Spacy [ref1](https://spacy.io/), [ref2](https://towardsdatascience.com/so-whats-spacy-ad65aa1949e0?), [ref3](https://realpython.com/natural-language-processing-spacy-python/), [ref4](https://medium.com/eliiza-ai/a-tour-of-awesome-features-of-spacy-part-1-2-58b32425954f), [ref5](https://towardsdatascience.com/spacy-basics-4b606a70f97b)  
@@ -220,6 +222,7 @@ Detailed Syllabus:
     + Streamlit [ref2](https://streamlit.io/), [ref2](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582), [ref3](https://towardsdatascience.com/streamlit-deploy-a-machine-learning-model-without-learning-any-web-framework-e8fb86079c61), [ref4](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3), [ref5](https://towardsdatascience.com/intermediate-streamlit-d5a1381daa65)  
     + Panel [ref1](https://github.com/holoviz/panel), [ref2](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)
     + Python GUI [ref1](https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)  
+    + Dash [ref1](https://www.datacamp.com/community/tutorials/learn-build-dash-python), [ref2](https://medium.com/swlh/dashboards-in-python-using-dash-creating-a-data-table-using-data-from-reddit-1d6c0cecb4bd), [ref3](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)  
       
   + Neural Networks  visualization  
     + TensorBoard [ref1](https://www.tensorflow.org/guide/summaries_and_tensorboard), [ref2](https://github.com/tensorflow/tensorboard)  
