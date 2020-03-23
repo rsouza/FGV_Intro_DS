@@ -248,6 +248,7 @@ Detailed Syllabus:
     + ETE Toolkit [ref1](http://etetoolkit.org/)  
     + ODO [ref1](https://odo.readthedocs.io/en/latest/)  
     + Docker [ref1](https://docs.docker.com/get-started/), [ref2](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b),[ref3](https://towardsdatascience.com/docker-best-practices-for-data-scientists-2ed7f6876dff)  
+    + Google Colab [ref1](https://towardsdatascience.com/setting-up-kaggle-in-google-colab-ebb281b61463)
   
   + Analytical Pipelines
     + Scikit-Learn Pipelines [ref1](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)  
