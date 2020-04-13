@@ -163,10 +163,11 @@ Detailed Syllabus:
     + Sarcasm Detection [ref1](https://towardsdatascience.com/sarcasm-detection-with-nlp-cbff1723f69a)  
     + Chatbots [ref1](https://towardsdatascience.com/how-to-build-a-chatbot-a-lesson-in-nlp-d0df588afa4b), [ref2](https://medium.com/x8-the-ai-community/build-your-first-chatbot-in-python-334247814900)  
     + Labeling [ref1](https://towardsdatascience.com/no-labels-no-problem-30024984681d)  
+  
   + Information Retrieval [ref1](https://towardsdatascience.com/https-towardsdatascience-com-search-engines-and-neural-networks-97e0df4f088d), [ref2](https://towardsdatascience.com/building-a-search-engine-with-bert-and-tensorflow-c6fdc0186c8a)  
-  + Graphs and Network Analysis [ref1](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/), [ref1](https://medium.com/apprentice-journal/the-graph-theory-an-introduction-in-python-5906d5be0e4b), [ref3](https://medium.com/@pankajmishrajec/a-day-with-network-analysis-in-python-using-networkx-d9ac446b4eec)  
-  + Time Series Analysis [ref1](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/), [ref2](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/), [ref3](https://towardsdatascience.com/an-overview-of-time-series-forecasting-models-a2fa7a358fcb?), [ref4](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016), [ref5](https://www.analyticsvidhya.com/blog/2019/01/introduction-time-series-classification/), [ref6](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/), [ref7](https://towardsdatascience.com/basic-time-series-manipulation-with-pandas-4432afee64ea), [video](https://www.youtube.com/watch?v=e8Yw4alG16Q)  
-  + Recommender Systems [ref1](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/), [ref2](https://www.datacamp.com/community/tutorials/recommender-systems-python), [ref3](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/), [ref4](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada), [ref5](https://towardsdatascience.com/recommender-systems-using-deep-learning-in-pytorch-from-scratch-f661b8f391d7), [ref6](https://www.analyticsvidhya.com/blog/2019/07/how-to-build-recommendation-system-word2vec-python/), [ref7](https://towardsdatascience.com/mind-reading-algorithms-368bdf412eb2?)    
+  + Graphs and Network Analysis [ref1](https://towardsdatascience.com/graph-theory-history-overview-f89a3efc0478), [ref2](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/), [ref3](https://medium.com/apprentice-journal/the-graph-theory-an-introduction-in-python-5906d5be0e4b), [ref4](https://medium.com/@pankajmishrajec/a-day-with-network-analysis-in-python-using-networkx-d9ac446b4eec), [ref5](https://www.analyticsvidhya.com/blog/2020/04/community-detection-graphs-networks/)   
+  + Time Series Analysis [ref1](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/), [ref2](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/), [ref3](https://towardsdatascience.com/an-overview-of-time-series-forecasting-models-a2fa7a358fcb?), [ref4](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016), [ref5](https://www.analyticsvidhya.com/blog/2019/01/introduction-time-series-classification/), [ref6](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/), [ref7](https://towardsdatascience.com/basic-time-series-manipulation-with-pandas-4432afee64ea), [ref8](https://towardsdatascience.com/analyzing-time-series-data-in-pandas-be3887fdd621), [video](https://www.youtube.com/watch?v=e8Yw4alG16Q)  
+  + Recommender Systems [ref1](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/), [ref2](https://www.datacamp.com/community/tutorials/recommender-systems-python), [ref3](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/), [ref4](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada), [ref5](https://towardsdatascience.com/recommender-systems-using-deep-learning-in-pytorch-from-scratch-f661b8f391d7), [ref6](https://www.analyticsvidhya.com/blog/2019/07/how-to-build-recommendation-system-word2vec-python/), [ref7](https://towardsdatascience.com/create-music-recommendation-system-using-python-ce5401317159), [ref8](https://towardsdatascience.com/mind-reading-algorithms-368bdf412eb2?)    
   + Music Classification [ref1](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)  
   + WebScraping [ref1](https://towardsdatascience.com/ultimate-beginners-guide-to-scraping-and-cleaning-twitter-data-a64e4aaa9343), [ref2](https://towardsdatascience.com/how-to-track-coronavirus-with-python-a5320b778c8e), [ref3](https://medium.com/swlh/how-to-scrape-a-website-with-a-single-line-of-python-code-5efe124275bb)  
 
@@ -218,6 +219,9 @@ Detailed Syllabus:
     + [Folium](http://python-visualization.github.io/folium/)
       + [Leaflet](http://leafletjs.com/)
     + Autoviz [ref1](https://github.com/AutoViML/AutoViz), [ref2](https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad)  
+    
+  + Graph Analysis Tools
+    + [NetworkX](https://networkx.github.io/), [DataShader](https://datashader.org/), [Igraph](https://igraph.org/python/)  
       
   + Dashboards and UIs
     + Flask [ref1](https://flask.palletsprojects.com/en/1.1.x/), [ref2](https://towardsdatascience.com/deploy-your-machine-learning-model-as-a-rest-api-4fe96bf8ddcc?), [ref3](https://medium.com/analytics-vidhya/deploying-a-machine-learning-model-on-web-using-flask-and-python-54b86c44e14a?), [ref4](https://towardsdatascience.com/web-app-development-for-data-scientists-48e445e54d7b)  
@@ -239,8 +243,6 @@ Detailed Syllabus:
     + Elastic Search [ref1](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
     + SPARQL [ref1](https://towardsdatascience.com/how-to-extract-knowledge-from-wikipedia-data-science-style-35f50f095d1a)  
     + MongoDB [ref1](https://www.analyticsvidhya.com/blog/2020/02/mongodb-in-python-tutorial-for-beginners-using-pymongo/)  
- 
-   + Graph Theory [ref1](https://towardsdatascience.com/graph-theory-history-overview-f89a3efc0478), [NetworkX](https://networkx.github.io/)  
   
   + Data Wrangling and Distributed computing
     + Map Reduce
