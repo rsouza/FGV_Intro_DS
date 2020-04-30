@@ -174,6 +174,7 @@ Detailed Syllabus:
 
 + Preparing the Environment
   + [Linux, Python, Virtualenv](https://towardsdatascience.com/how-to-setup-a-python-environment-for-machine-learning-354d6c29a264)  
+  + [Jupyter Notebook on AWS setup](https://towardsdatascience.com/stop-worrying-and-create-your-deep-learning-server-in-30-minutes-bb5bd956b8de)  
   
   + Versioning Tools
     + Git [ref1](https://git-scm.com/book/en/v2), [ref2](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)  
