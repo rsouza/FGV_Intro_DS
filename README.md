@@ -33,7 +33,7 @@ Detailed Syllabus:
   + Data Engineering [ref1](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603), [ref2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7), [ref3](https://becominghuman.ai/effective-data-preprocessing-and-feature-engineering-452d3a948262)  
     + Handling Missing Values [ref1](http://www.ritchieng.com/pandas-handling-missing-values/)
     + Changing Datatypes [ref1](http://www.ritchieng.com/pandas-changing-datatype/)
-  + Exploratory Data Analysis [ref1](http://people.duke.edu/~ccc14/sta-663-2017/#), [ref2](https://medium.com/swlh/exploratory-data-analysis-what-is-it-and-why-is-it-so-important-part-1-2-240d58a89695), [ref3](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e), [book](oreilly.com/catalog/9780596802363/)  
+  + Exploratory Data Analysis [ref1](http://people.duke.edu/~ccc14/sta-663-2017/#), [ref2](https://medium.com/swlh/exploratory-data-analysis-what-is-it-and-why-is-it-so-important-part-1-2-240d58a89695), [ref3](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e), [ref4](https://www.analyticsvidhya.com/blog/2020/04/beginners-guide-exploratory-data-analysis-text-data/), [book](oreilly.com/catalog/9780596802363/)  
   + Data Visualization [ref1](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f), [ref2](https://www.linuxlinks.com/best-free-python-visualization-packages/)  
   
 + Model Selection [ref1](https://towardsdatascience.com/data-science-simplified-part-6-model-selection-methods-2511cbdf7cb0)
@@ -225,7 +225,7 @@ Detailed Syllabus:
     + [NetworkX](https://networkx.github.io/), [DataShader](https://datashader.org/), [Igraph](https://igraph.org/python/)  
       
   + Dashboards and UIs
-    + Flask [ref1](https://flask.palletsprojects.com/en/1.1.x/), [ref2](https://towardsdatascience.com/deploy-your-machine-learning-model-as-a-rest-api-4fe96bf8ddcc?), [ref3](https://medium.com/analytics-vidhya/deploying-a-machine-learning-model-on-web-using-flask-and-python-54b86c44e14a?), [ref4](https://towardsdatascience.com/web-app-development-for-data-scientists-48e445e54d7b)  
+    + Flask [ref1](https://flask.palletsprojects.com/en/1.1.x/), [ref2](https://towardsdatascience.com/deploy-your-machine-learning-model-as-a-rest-api-4fe96bf8ddcc?), [ref3](https://medium.com/analytics-vidhya/deploying-a-machine-learning-model-on-web-using-flask-and-python-54b86c44e14a?), [ref4](https://towardsdatascience.com/web-app-development-for-data-scientists-48e445e54d7b), [ref5](https://www.analyticsvidhya.com/blog/2020/04/how-to-deploy-machine-learning-model-flask/)  
     + Streamlit [ref2](https://streamlit.io/), [ref2](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582), [ref3](https://towardsdatascience.com/streamlit-deploy-a-machine-learning-model-without-learning-any-web-framework-e8fb86079c61), [ref4](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3), [ref5](https://towardsdatascience.com/intermediate-streamlit-d5a1381daa65), [ref6](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)  
     + Panel [ref1](https://github.com/holoviz/panel), [ref2](https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52)
     + Python GUI [ref1](https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)  
