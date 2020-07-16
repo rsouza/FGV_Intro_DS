@@ -245,7 +245,7 @@ Detailed Syllabus:
     + Deep Replay [ref1](https://github.com/dvgodoy/deepreplay)  
 
   + Relational databases and SQL
-    + SQL [ref1](https://www.analyticsvidhya.com/blog/2020/06/sql-for-beginners-analysts-sqlite-database-python/), [ref2](https://medium.com/@lushuhan95/reproducing-sql-queries-in-python-codes-35d90f716b1a), [ref3](https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/)  
+    + SQL [ref1](https://www.analyticsvidhya.com/blog/2020/06/sql-for-beginners-analysts-sqlite-database-python/), [ref2](https://medium.com/@lushuhan95/reproducing-sql-queries-in-python-codes-35d90f716b1a), [ref3](https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/), [ref4](https://www.analyticsvidhya.com/blog/2020/07/difference-between-sql-keys-primary-key-super-key-candidate-key-foreign-key/)  
   
   + NoSQL / Graph Databases
     + Elastic Search [ref1](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
